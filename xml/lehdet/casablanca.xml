@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<book>
+		<tekija>Autheman</tekija>
+		<nimike>Vic Valence: En natt hos Tennessee</nimike>
+		<julk>Casablanca 1987/2</julk>
+	</book>
+	<book>
+		<tekija>Autheman</tekija>
+		<nimike>Vic Valence: Den tysta passageraren</nimike>
+		<julk>Casablanca 1988/2</julk>
+	</book>
+	<book>
+		<tekija>Autheman &amp; Rousseau</tekija>
+		<nimike>Kapten Condor: Gisslan</nimike>
+		<julk>Casablanca 1987/7</julk>
+	</book>
+	<book>
+		<tekija>Breccia, Alberto</tekija>
+		<nimike>Mort Cinder: ögon av bly</nimike>
+		<julk>Casablanca 1987/3-8</julk>
+	</book>
+	<book>
+		<tekija>Bucquoy &amp; Hernu</tekija>
+		<nimike>Djävulens natt</nimike>
+		<julk>Casablanca 1987/1</julk>
+	</book>
+	<book>
+		<tekija>Bucquoy &amp; Hernu</tekija>
+		<nimike>Alain Moreau, Detektiv</nimike>
+		<julk>Casablanca 1987/5</julk>
+	</book>
+	<book>
+		<tekija>Bucquoy &amp; Hernu</tekija>
+		<nimike>Alain Moreau, Stymparsekten</nimike>
+		<julk>Casablanca 1988/1</julk>
+	</book>
+	<book>
+		<tekija>Bucquoy &amp; Hernu</tekija>
+		<nimike>De fattiga drömmer och de rika sover</nimike>
+		<julk>Casablanca 1988/3</julk>
+	</book>
+	<book>
+		<tekija>Carpentrie</tekija>
+		<nimike>Carrat Vandall</nimike>
+		<julk>Casablanca 1987/8</julk>
+	</book>
+	<book>
+		<tekija>Dal Pra &amp; Torti</tekija>
+		<nimike>Weimar</nimike>
+		<julk>Casablanca 1987/1-4</julk>
+	</book>
+	<book>
+		<tekija>De Angelis &amp; Saudelli</tekija>
+		<nimike>Olimpia</nimike>
+		<julk>Casablanca 1987/6</julk>
+	</book>
+	<book>
+		<tekija>De la Fuente &amp; Mora</tekija>
+		<nimike>Nadja</nimike>
+		<julk>Casablanca 1988/4</julk>
+	</book>
+	<book>
+		<tekija>Dethorey &amp; Giroud</tekija>
+		<nimike>Anarkisterna</nimike>
+		<julk>Casablanca 1987/6</julk>
+	</book>
+	<book>
+		<tekija>Dodo &amp; Radis, Ben</tekija>
+		<nimike>Bill &amp; Teddy: Minne från Paris</nimike>
+		<julk>Casablanca 1987/1</julk>
+	</book>
+	<book>
+		<tekija>Dodo &amp; Radis, Ben</tekija>
+		<nimike>Bill &amp; Teddy: Måltavlan</nimike>
+		<julk>Casablanca 1987/2</julk>
+	</book>
+	<book>
+		<tekija>Dodo &amp; Radis, Ben</tekija>
+		<nimike>Bill &amp; Teddy: Sand i öknen</nimike>
+		<julk>Casablanca 1987/3</julk>
+	</book>
+	<book>
+		<tekija>Dodo &amp; Radis, Ben</tekija>
+		<nimike>Bill &amp; Teddy: Bassängen</nimike>
+		<julk>Casablanca 1987/4</julk>
+	</book>
+	<book>
+		<tekija>Dodo &amp; Radis, Ben</tekija>
+		<nimike>Bill &amp; Teddy: Mönstring</nimike>
+		<julk>Casablanca 1987/5</julk>
+	</book>
+	<book>
+		<tekija>Dodo &amp; Radis, Ben</tekija>
+		<nimike>Bill &amp; Teddy: Lift</nimike>
+		<julk>Casablanca 1987/6</julk>
+	</book>
+	<book>
+		<tekija>Dodo &amp; Radis, Ben</tekija>
+		<nimike>Bill &amp; Teddy: Miss Trigano 1986</nimike>
+		<julk>Casablanca 1987/7</julk>
+	</book>
+	<book>
+		<tekija>Dodo &amp; Radis, Ben</tekija>
+		<nimike>Bill &amp; Teddy: Dåreskutan</nimike>
+		<julk>Casablanca 1988/1</julk>
+	</book>
+	<book>
+		<tekija>Hermann</tekija>
+		<nimike>Eloise</nimike>
+		<julk>Casablanca 1988/5</julk>
+	</book>
+	<book>
+		<tekija>LeTendre &amp; Loisel</tekija>
+		<nimike>Roxanna</nimike>
+		<julk>Casablanca 1987/9</julk>
+	</book>
+	<book>
+		<tekija>Magnus</tekija>
+		<nimike>Mannen som mördade Che Guevara</nimike>
+		<julk>Casablanca 1988/2-4</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>I väntan på Corto</nimike>
+		<julk>Casablanca 1988/4</julk>
+	</book>
+	<book>
+		<tekija>Matas &amp; Frisano</tekija>
+		<nimike>Korten på bordet</nimike>
+		<julk>Casablanca 1988/5</julk>
+	</book>
+	<book>
+		<tekija>Micheluzzi</tekija>
+		<nimike>Palmer Special Number One</nimike>
+		<julk>Casablanca 1987/4</julk>
+	</book>
+	<book>
+		<tekija>Paje, Mirko &amp; Tettamanti, Antonio</tekija>
+		<nimike>Jihad</nimike>
+		<julk>Casablanca 1988/5</julk>
+	</book>
+	<book>
+		<tekija>Pratt, Hugo</tekija>
+		<nimike>Tristan Bantams Hemlighet</nimike>
+		<julk>Casablanca 1987/1</julk>
+	</book>
+	<book>
+		<tekija>Pratt, Hugo</tekija>
+		<nimike>Rendez-vous i Bahia</nimike>
+		<julk>Casablanca 1987/3</julk>
+	</book>
+	<book>
+		<tekija>Pratt, Hugo</tekija>
+		<nimike>Samba med prickskytten</nimike>
+		<julk>Casablanca 1987/5</julk>
+	</book>
+	<book>
+		<tekija>Rotundo &amp; Barreiro</tekija>
+		<nimike>Fiskaren</nimike>
+		<julk>Casablanca 1988/3</julk>
+	</book>
+	<book>
+		<tekija>Rotundo &amp; Mignacco</tekija>
+		<nimike>Främlingen</nimike>
+		<julk>Casablanca 1987/9-1988/2</julk>
+	</book>
+	<book>
+		<tekija>Sampayo, Carlos &amp; Solano Lopez, F.</tekija>
+		<nimike>Komissarie Evaristo: Terror över staden</nimike>
+		<julk>Casablanca 1988/4</julk>
+	</book>
+	<book>
+		<tekija>Sampayo, Carlos &amp; Solano Lopez, F.</tekija>
+		<nimike>Komissarie Evaristo: Operation Hermann</nimike>
+		<julk>Casablanca 1988/5</julk>
+	</book>
+	<book>
+		<tekija>Sanchez Abuli, Enrique</tekija>
+		<nimike>Alex Magnum</nimike>
+		<julk>Casablanca 1988/3</julk>
+	</book>
+	<book>
+		<tekija>Schultheiss</tekija>
+		<nimike>Fisketuren</nimike>
+		<julk>Casablanca 1987/1</julk>
+	</book>
+	<book>
+		<tekija>Schultheiss</tekija>
+		<nimike>Kallt Krig</nimike>
+		<julk>Casablanca 1987/2</julk>
+	</book>
+	<book>
+		<tekija>Schultheiss</tekija>
+		<nimike>Hajens Dröm</nimike>
+		<julk>Casablanca 1987/3</julk>
+	</book>
+	<book>
+		<tekija>Schultheiss</tekija>
+		<nimike>Tåget</nimike>
+		<julk>Casablanca 1987/5</julk>
+	</book>
+	<book>
+		<tekija>Schultheiss</tekija>
+		<nimike>Avgrunden</nimike>
+		<julk>Casablanca 1987/7</julk>
+	</book>
+	<book>
+		<tekija>Segura, Antonio &amp; Ortiz, Jose</tekija>
+		<nimike>Hombre: Jag är inte lika hård som jag trodde</nimike>
+		<julk>Casablanca 1987/8</julk>
+	</book>
+	<book>
+		<tekija>Segura, Antonio &amp; Ortiz, Jose</tekija>
+		<nimike>Hombre: Jag är inte lika hård som jag trodde</nimike>
+		<julk>Casablanca 1987/9</julk>
+	</book>
+	<book>
+		<tekija>Segura, Antonio &amp; Ortiz, Jose</tekija>
+		<nimike>Hombre: Jag är inte lika hård som jag trodde</nimike>
+		<julk>Casablanca 1988/2</julk>
+	</book>
+	<book>
+		<tekija>Sommer, Manfred</tekija>
+		<nimike>Karneval</nimike>
+		<julk>Casablanca 1988/1</julk>
+	</book>
+	<book>
+		<tekija>Sommer, Manfred</tekija>
+		<nimike>Mannen i öknen</nimike>
+		<julk>Casablanca 1988/5</julk>
+	</book>
+	<book>
+		<tekija>Vatine &amp; Clement</tekija>
+		<nimike>Maeva</nimike>
+		<julk>Casablanca 1988/1</julk>
+	</book>
+	<book>
+		<tekija>Zentner &amp; Pellejero</tekija>
+		<nimike>Dieter Lumpen: Dolken i Istanbul</nimike>
+		<julk>Casablanca 1987/2</julk>
+	</book>
+	<book>
+		<tekija>Zentner &amp; Pellejero</tekija>
+		<nimike>Dieter Lumpen: Hasardspel</nimike>
+		<julk>Casablanca 1987/4</julk>
+	</book>
+	<book>
+		<tekija>Zentner &amp; Pellejero</tekija>
+		<nimike>Dieter Lumpen: Den tidsintällda bomben</nimike>
+		<julk>Casablanca 1987/6</julk>
+	</book>
+	<book>
+		<tekija>Zentner &amp; Pellejero</tekija>
+		<nimike>Dieter Lumpen: Mästarens äventyr</nimike>
+		<julk>Casablanca 1987/8</julk>
+	</book>
+</catalog>

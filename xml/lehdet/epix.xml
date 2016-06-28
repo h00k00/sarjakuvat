@@ -1,0 +1,3303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<book>
+		<tekija>Adam, Olivier &amp; Rolland</tekija>
+		<nimike>Väntrummet</nimike>
+		<julk>Epix 87/01</julk>
+	</book>
+	<book>
+		<tekija>Adam, Olivier &amp; Rolland</tekija>
+		<nimike>Linje 2</nimike>
+		<julk>Epix 87/04</julk>
+	</book>
+	<book>
+		<tekija>Alexis &amp; Gotlib, Marcel</tekija>
+		<nimike>Reklam är kul</nimike>
+		<julk>Epix 84/02, 88/09</julk>
+	</book>
+	<book>
+		<tekija>Alexis &amp; Gotlib, Marcel</tekija>
+		<nimike>Hamlet</nimike>
+		<julk>Epix 85/03</julk>
+	</book>
+	<book>
+		<tekija>Alexis &amp; Gotlib, Marcel</tekija>
+		<nimike>Ringaren i Notre Dame</nimike>
+		<julk>Epix 85/04-05</julk>
+	</book>
+	<book>
+		<tekija>Altan</tekija>
+		<nimike>Milanese subway</nimike>
+		<julk>Epix 84/07</julk>
+	</book>
+	<book>
+		<tekija>Altan</tekija>
+		<nimike>Gloria</nimike>
+		<julk>Epix 85/05</julk>
+	</book>
+	<book>
+		<tekija>Altan</tekija>
+		<nimike>Från Maracaibo</nimike>
+		<julk>Epix 85/08</julk>
+	</book>
+	<book>
+		<tekija>Altuna, Horacio</tekija>
+		<nimike>Rytmer</nimike>
+		<julk>Epix 88/07</julk>
+	</book>
+	<book>
+		<tekija>Altuna, Horacio</tekija>
+		<nimike>Föreställning</nimike>
+		<julk>Epix 89/04, 05, 06, 07</julk>
+	</book>
+	<book>
+		<tekija>Autret &amp; Victor</tekija>
+		<nimike>Allmänläkare</nimike>
+		<julk>Epix 89/04</julk>
+	</book>
+	<book>
+		<tekija>Bagge, Peter</tekija>
+		<nimike>Kräket Buddy</nimike>
+		<julk>Epix 90/08-09</julk>
+	</book>
+	<book>
+		<tekija>Bagge, Peter</tekija>
+		<nimike>God jul ta mig fan</nimike>
+		<julk>Epix 90/12</julk>
+	</book>
+	<book>
+		<tekija>Bagge, Peter</tekija>
+		<nimike>Middag för två</nimike>
+		<julk>Epix 91/10</julk>
+	</book>
+	<book>
+		<tekija>Bagge, Peter</tekija>
+		<nimike>Buddy Bradley vill icke taga vara på sin broder</nimike>
+		<julk>Epix 92/0304</julk>
+	</book>
+	<book>
+		<tekija>Baltus, Anne</tekija>
+		<nimike>Semester</nimike>
+		<julk>Epix 86/07</julk>
+	</book>
+	<book>
+		<tekija>Barker &amp; Niles &amp; Edwards</tekija>
+		<nimike>Vita dukens vålnad</nimike>
+		<julk>Epix 91/07</julk>
+	</book>
+	<book>
+		<tekija>Barker, Clive</tekija>
+		<nimike>Uppenbarelser</nimike>
+		<julk>Epix 92/0708</julk>
+	</book>
+	<book>
+		<tekija>Baru</tekija>
+		<nimike>Kanin-Janta</nimike>
+		<julk>Epix 86/10</julk>
+	</book>
+	<book>
+		<tekija>Baru</tekija>
+		<nimike>Vill fröken dansa?</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Baru</tekija>
+		<nimike>Partyt</nimike>
+		<julk>Epix 86/12</julk>
+	</book>
+	<book>
+		<tekija>Baru</tekija>
+		<nimike>Sommarlov</nimike>
+		<julk>Epix 87/06</julk>
+	</book>
+	<book>
+		<tekija>Baru</tekija>
+		<nimike>Nadette</nimike>
+		<julk>Epix 87/07</julk>
+	</book>
+	<book>
+		<tekija>Baru</tekija>
+		<nimike>Benskydd</nimike>
+		<julk>Epix 87/10</julk>
+	</book>
+	<book>
+		<tekija>Baru</tekija>
+		<nimike>Peugeoten</nimike>
+		<julk>Epix 88/02</julk>
+	</book>
+	<book>
+		<tekija>Baru</tekija>
+		<nimike>Badinrättningen</nimike>
+		<julk>Epix 88/08</julk>
+	</book>
+	<book>
+		<tekija>Baru</tekija>
+		<nimike>Diverni är en jävla typ</nimike>
+		<julk>Epix 89/02</julk>
+	</book>
+	<book>
+		<tekija>Baudoin, Edmond &amp; Frank,</tekija>
+		<nimike>Banjo</nimike>
+		<julk>Epix 86/09</julk>
+	</book>
+	<book>
+		<tekija>Baudoin, Edmond &amp; Frank,</tekija>
+		<nimike>Bushens gud</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Baudoin, Edmond &amp; Frank,</tekija>
+		<nimike>Bussarens ljusa ideer</nimike>
+		<julk>Epix 87/10</julk>
+	</book>
+	<book>
+		<tekija>Baudoin, Edmond &amp; Frank,</tekija>
+		<nimike>Safra, si! Samba, no!</nimike>
+		<julk>Epix 88/04</julk>
+	</book>
+	<book>
+		<tekija>Behe</tekija>
+		<nimike>Dödlig synd</nimike>
+		<julk>Epix 89/11-90/03</julk>
+	</book>
+	<book>
+		<tekija>Ben Radis &amp; Dodo</tekija>
+		<nimike>Teddy och Billy - Kortaste strået</nimike>
+		<julk>Epix 88/08</julk>
+	</book>
+	<book>
+		<tekija>Ben Radis &amp; Dodo</tekija>
+		<nimike>Teddy och Billy - Vid filmen</nimike>
+		<julk>Epix 88/09</julk>
+	</book>
+	<book>
+		<tekija>Ben Radis &amp; Dodo</tekija>
+		<nimike>Teddy och Billy - En smäll i kistan</nimike>
+		<julk>Epix 88/12</julk>
+	</book>
+	<book>
+		<tekija>Ben Radis &amp; Dodo</tekija>
+		<nimike>Natten är dagens mord</nimike>
+		<julk>Epix 92/0102</julk>
+	</book>
+	<book>
+		<tekija>Bertotti, Ugo</tekija>
+		<nimike>Marina - Djävulsbron</nimike>
+		<julk>Epix 87/08</julk>
+	</book>
+	<book>
+		<tekija>Bertotti, Ugo</tekija>
+		<nimike>Marina - Meteora</nimike>
+		<julk>Epix 89/03</julk>
+	</book>
+	<book>
+		<tekija>Bertotti, Ugo</tekija>
+		<nimike>Marina - Baby sitter</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>Bertrand, Philippe</tekija>
+		<nimike>Linda tycker om konst</nimike>
+		<julk>Epix 84/01-89/02</julk>
+	</book>
+	<book>
+		<tekija>Bignon, Alain &amp; Vidal, Guy</tekija>
+		<nimike>Dum så man kan dö</nimike>
+		<julk>Epix 85/06-09</julk>
+	</book>
+	<book>
+		<tekija>Bilal, Enki</tekija>
+		<nimike>Muren</nimike>
+		<julk>Epix 90/07</julk>
+	</book>
+	<book>
+		<tekija>Bilal, Enki &amp; Christin, Pierre</tekija>
+		<nimike>Stenskeppet</nimike>
+		<julk>Epix 89/12-90/04</julk>
+	</book>
+	<book>
+		<tekija>Bilal, Enki &amp; Grange, Dominique</tekija>
+		<nimike>Döden på permission</nimike>
+		<julk>Epix 85/06</julk>
+	</book>
+	<book>
+		<tekija>Binet, Christian</tekija>
+		<nimike>Kador</nimike>
+		<julk>Epix 84/01-86/12</julk>
+	</book>
+	<book>
+		<tekija>Binet, Christian</tekija>
+		<nimike>Adele</nimike>
+		<julk>Epix 84/02</julk>
+	</book>
+	<book>
+		<tekija>Binet, Christian</tekija>
+		<nimike>Kriget</nimike>
+		<julk>Epix 87/01</julk>
+	</book>
+	<book>
+		<tekija>Binet, Christian</tekija>
+		<nimike>Franska köket</nimike>
+		<julk>Epix 87/03</julk>
+	</book>
+	<book>
+		<tekija>Bissette, S.R. &amp; Totleben, John &amp; Woch, Stan &amp; Moore, Alan</tekija>
+		<nimike>Vävnad</nimike>
+		<julk>Epix 88/05</julk>
+	</book>
+	<book>
+		<tekija>Blutch</tekija>
+		<nimike>Tintins äventyr</nimike>
+		<julk>Epix 88/12</julk>
+	</book>
+	<book>
+		<tekija>Boada, Pepe</tekija>
+		<nimike>Avgrundsdjur</nimike>
+		<julk>Epix 87/04</julk>
+	</book>
+	<book>
+		<tekija>Boada, Pepe</tekija>
+		<nimike>Huvudstupa</nimike>
+		<julk>Epix 87/05</julk>
+	</book>
+	<book>
+		<tekija>Boada, Pepe</tekija>
+		<nimike>Gräshoppan och myrorna</nimike>
+		<julk>Epix 88/11</julk>
+	</book>
+	<book>
+		<tekija>Boada, Pepe</tekija>
+		<nimike>Hans och Greta</nimike>
+		<julk>Epix 90/02</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Nattlig nektar</nimike>
+		<julk>Epix 85/05</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Deadbone Erotica - En lysande framtid</nimike>
+		<julk>Epix 86/04</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Rymdsängen</nimike>
+		<julk>Epix 86/05</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Betraktaren</nimike>
+		<julk>Epix 86/06</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Deadbone Erotica - Könshandel</nimike>
+		<julk>Epix 86/07</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Krigsfången</nimike>
+		<julk>Epix 86/10</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Skinnknuttan</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Månskenspromenad</nimike>
+		<julk>Epix 87/01</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Nedtripp</nimike>
+		<julk>Epix 87/01</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Huvudbyggnaden</nimike>
+		<julk>Epix 87/02</julk>
+	</book>
+	<book>
+		<tekija>Bode, Vaughn</tekija>
+		<nimike>Fjällbestigning</nimike>
+		<julk>Epix 87/10</julk>
+	</book>
+	<book>
+		<tekija>Bolland, Brian</tekija>
+		<nimike>Aktrisen och biskopen</nimike>
+		<julk>Epix 91/05</julk>
+	</book>
+	<book>
+		<tekija>Bolland, Brian</tekija>
+		<nimike>Aktrisen och biskopen ger ett party</nimike>
+		<julk>Epix 91/06</julk>
+	</book>
+	<book>
+		<tekija>Bond, Philip</tekija>
+		<nimike>Gränsvärlden</nimike>
+		<julk>Epix 90/06, 07, 10, 11, 12, 91/02, 04, 06, 07</julk>
+	</book>
+	<book>
+		<tekija>Bonks, Joseph M. &amp; Linsner, Joseph M.</tekija>
+		<nimike>Födelsemärken</nimike>
+		<julk>Epix 91/06</julk>
+	</book>
+	<book>
+		<tekija>Bonks, Joseph M. &amp; Linsner, Joseph M.</tekija>
+		<nimike>Det som brinner klarast</nimike>
+		<julk>Epix 92/0708</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>En intim stund</nimike>
+		<julk>Epix 84/08</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Muskelspel</nimike>
+		<julk>Epix 85/02</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Mannen med järnmasken</nimike>
+		<julk>Epix 85/06</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Rebellen</nimike>
+		<julk>Epix 85/10</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Vildarna är primitiva</nimike>
+		<julk>Epix 86/02</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Krigarens väg</nimike>
+		<julk>Epix 86/06</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Reinkarnationens skuggsida</nimike>
+		<julk>Epix 86/09</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>De vita viddernas lag</nimike>
+		<julk>Epix 86/12</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Den bengaliska tigern möter könsvarelsen</nimike>
+		<julk>Epix 87/02</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Briefing</nimike>
+		<julk>Epix 87/05</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Hos slaktaren</nimike>
+		<julk>Epix 87/06</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Gen gula faran</nimike>
+		<julk>Epix 88/03</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Trottoarpedagogik</nimike>
+		<julk>Epix 88/07</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Ett arbetsamt perspektiv</nimike>
+		<julk>Epix 88/10</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>007 kommer tillbaka</nimike>
+		<julk>Epix 88/11</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Livets under</nimike>
+		<julk>Epix 88/12</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Skyttegravarnas fasor</nimike>
+		<julk>Epix 89/02</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Kakmonster</nimike>
+		<julk>Epix 89/10</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois</tekija>
+		<nimike>Storstadscowboy</nimike>
+		<julk>Epix 90/09</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois &amp; Charyn, Jerome</tekija>
+		<nimike>Trollkarlens hustru</nimike>
+		<julk>Epix 87/09-88/01</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois &amp; Makyo</tekija>
+		<nimike>Stilla natt</nimike>
+		<julk>Epix 90/12</julk>
+	</book>
+	<book>
+		<tekija>Boucq, Francois &amp; Tronchet</tekija>
+		<nimike>En fin fångst</nimike>
+		<julk>Epix 87/01</julk>
+	</book>
+	<book>
+		<tekija>Bourgeon, Francois</tekija>
+		<nimike>Dimmornas skog</nimike>
+		<julk>Epix 84/05-08</julk>
+	</book>
+	<book>
+		<tekija>Bourgeon, Francois</tekija>
+		<nimike>Turkosstaden</nimike>
+		<julk>Epix 86/03-07</julk>
+	</book>
+	<book>
+		<tekija>Bourgeon, Francois</tekija>
+		<nimike>Sirenens sång</nimike>
+		<julk>Epix 88/06-11</julk>
+	</book>
+	<book>
+		<tekija>Breccia</tekija>
+		<nimike>Vännen</nimike>
+		<julk>Epix 91/07</julk>
+	</book>
+	<book>
+		<tekija>Breccia, A. &amp; Trillo, C</tekija>
+		<nimike>Rödluvan</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Breccia, A. &amp; Trillo, C</tekija>
+		<nimike>Törnrosa</nimike>
+		<julk>Epix 87/04</julk>
+	</book>
+	<book>
+		<tekija>Bushmiller, Ernie</tekija>
+		<nimike>Lisa äter mat</nimike>
+		<julk>Epix 92/0102</julk>
+	</book>
+	<book>
+		<tekija>Buzzelli, Dino</tekija>
+		<nimike>Inridning</nimike>
+		<julk>Epix 89/06</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Fula flugan</nimike>
+		<julk>Epix 86/06</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Lill-Jans långa näsa</nimike>
+		<julk>Epix 86/09</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Riddaren med de stinkande händerna</nimike>
+		<julk>Epix 86/12</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Apuppvisaren och björngömmaren</nimike>
+		<julk>Epix 87/02</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Som man ropar bland bergen</nimike>
+		<julk>Epix 87/04</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Roberta</nimike>
+		<julk>Epix 87/05</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Dockan som däckade folk</nimike>
+		<julk>Epix 87/07</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Om den livegne munken och korståget</nimike>
+		<julk>Epix 87/09</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Tjålan</nimike>
+		<julk>Epix 87/12</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Om Jeannot Guibal, trubaduren</nimike>
+		<julk>Epix 88/04</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Rose-Marie</nimike>
+		<julk>Epix 88/07</julk>
+	</book>
+	<book>
+		<tekija>Cabanes, Max</tekija>
+		<nimike>Joel Baktorks vidunderliga berättelse</nimike>
+		<julk>Epix 88/11</julk>
+	</book>
+	<book>
+		<tekija>Cadelo, Silvio</tekija>
+		<nimike>Kärleksblomman</nimike>
+		<julk>Epix 90/09-12</julk>
+	</book>
+	<book>
+		<tekija>Camou, L. Lasnier, C.</tekija>
+		<nimike>Kärlek i hagen</nimike>
+		<julk>Epix 88/08</julk>
+	</book>
+	<book>
+		<tekija>Caron</tekija>
+		<nimike>Promenad</nimike>
+		<julk>Epix 88/08</julk>
+	</book>
+	<book>
+		<tekija>Castro, Pedro</tekija>
+		<nimike>Muren</nimike>
+		<julk>Epix 88/01</julk>
+	</book>
+	<book>
+		<tekija>Catherine, Susan</tekija>
+		<nimike>Uppsnappat på amerikanska lunchbarer</nimike>
+		<julk>Epix 89/01, 03, 06, 09, 12, 90/01, 02, 05</julk>
+	</book>
+	<book>
+		<tekija>Catherine, Susan</tekija>
+		<nimike>Amerikanska kvinnors bekännelser</nimike>
+		<julk>Epix 90/06</julk>
+	</book>
+	<book>
+		<tekija>Ceesepe</tekija>
+		<nimike>Estrellita far till New York</nimike>
+		<julk>Epix 86/09</julk>
+	</book>
+	<book>
+		<tekija>Ceesepe</tekija>
+		<nimike>Bombitas död</nimike>
+		<julk>Epix 89/04</julk>
+	</book>
+	<book>
+		<tekija>Ceppi, Daniel</tekija>
+		<nimike>Fällan vid Howrah-bron</nimike>
+		<julk>Epix 84/01-05</julk>
+	</book>
+	<book>
+		<tekija>Ceppi, Daniel</tekija>
+		<nimike>Fångna i kaos</nimike>
+		<julk>Epix 85/10-86/01</julk>
+	</book>
+	<book>
+		<tekija>Cestac, F. &amp; Cochet, Jean-Luc</tekija>
+		<nimike>Jag är en riktig brevduva</nimike>
+		<julk>Epix 86/01</julk>
+	</book>
+	<book>
+		<tekija>Chaland, Yves</tekija>
+		<nimike>Elefanternas kyrkogård</nimike>
+		<julk>Epix 85/09</julk>
+	</book>
+	<book>
+		<tekija>Chaland, Yves</tekija>
+		<nimike>Gossen Albert</nimike>
+		<julk>Epix 86/02</julk>
+	</book>
+	<book>
+		<tekija>Chaland, Yves</tekija>
+		<nimike>Budapest 1956</nimike>
+		<julk>Epix 90/10-91/01</julk>
+	</book>
+	<book>
+		<tekija>Cherkas, M. &amp; Hancock, Larry</tekija>
+		<nimike>Mysteriet Fanny Hobbs</nimike>
+		<julk>Epix 88/12</julk>
+	</book>
+	<book>
+		<tekija>Clave, Florenci &amp; Himes, Chester</tekija>
+		<nimike>Spring för livet</nimike>
+		<julk>Epix 92/0304</julk>
+	</book>
+	<book>
+		<tekija>Cold &amp; Delan</tekija>
+		<nimike>Slutspurt</nimike>
+		<julk>Epix 89/10</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard</tekija>
+		<nimike>Besten från Wolfton</nimike>
+		<julk>Epix 84/02-04</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard</tekija>
+		<nimike>Draken vid näsan</nimike>
+		<julk>Epix 84/06</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard</tekija>
+		<nimike>Cidopey</nimike>
+		<julk>Epix 84/07</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard</tekija>
+		<nimike>Halte Hams hustru</nimike>
+		<julk>Epix 85/01</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard</tekija>
+		<nimike>älskad av en demon</nimike>
+		<julk>Epix 85/04-05</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard</tekija>
+		<nimike>Hemkomst</nimike>
+		<julk>Epix 85/06</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard &amp; Boudreau, Gerry</tekija>
+		<nimike>Nästan levande</nimike>
+		<julk>Epix 86/09</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard &amp; Butterworth, Jack</tekija>
+		<nimike>Uppifrån och ner</nimike>
+		<julk>Epix 85/11</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard &amp; Jones, Bruce</tekija>
+		<nimike>Du är en stop flicka nu</nimike>
+		<julk>Epix 85/05</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard &amp; Jones, Bruce</tekija>
+		<nimike>På djupet</nimike>
+		<julk>Epix 85/07</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard &amp; Lewis, Budd</tekija>
+		<nimike>Den troende</nimike>
+		<julk>Epix 85/12</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard &amp; Margopoulos, Rich</tekija>
+		<nimike>Judas</nimike>
+		<julk>Epix 86/07</julk>
+	</book>
+	<book>
+		<tekija>Corben, Richard &amp; Moench, Doug</tekija>
+		<nimike>Det lätta klappret av högklackade skor</nimike>
+		<julk>Epix 85/09</julk>
+	</book>
+	<book>
+		<tekija>Cossu, Antonio</tekija>
+		<nimike>Pedros liv</nimike>
+		<julk>Epix 86/03</julk>
+	</book>
+	<book>
+		<tekija>Cossu, Antonio</tekija>
+		<nimike>Don Pepino</nimike>
+		<julk>Epix 86/04</julk>
+	</book>
+	<book>
+		<tekija>Cossu, Antonio &amp; Bocquet, Jose-Louis</tekija>
+		<nimike>Den sista dealen på Canal Street</nimike>
+		<julk>Epix 87/02</julk>
+	</book>
+	<book>
+		<tekija>Cossu, Antonio &amp; Bocquet, Jose-Louis</tekija>
+		<nimike>Hold up på Bronx Avenue</nimike>
+		<julk>Epix 87/10</julk>
+	</book>
+	<book>
+		<tekija>Crepax, Guido</tekija>
+		<nimike>Hello Anita</nimike>
+		<julk>Epix 84/01-07</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Analakrobaten</nimike>
+		<julk>Epix 84/04</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Lökskallens äventyr</nimike>
+		<julk>Epix 84/04</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Jag minns sextiotalet</nimike>
+		<julk>Epix 84/05</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Dirty Dog</nimike>
+		<julk>Epix 84/05</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>George Murky Murkoids äventyr</nimike>
+		<julk>Epix 84/06</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Gnällbönan</nimike>
+		<julk>Epix 84/07</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Sally Stopparsle</nimike>
+		<julk>Epix 84/08</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Bo Bo Bolinski</nimike>
+		<julk>Epix 85/01</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Mr. Snoid i "Jag levde som en miljonär"</nimike>
+		<julk>Epix 85/02</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Mina problem med kvinnor</nimike>
+		<julk>Epix 85/05</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Modern Dance Workshop</nimike>
+		<julk>Epix 85/07</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Stora fina ben</nimike>
+		<julk>Epix 85/08</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Bo Bo Bolinski: Han är bara en liten knäppskalle</nimike>
+		<julk>Epix 85/09</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Snoid blir bohem</nimike>
+		<julk>Epix 85/10</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Mode O'Day och hennes polare</nimike>
+		<julk>Epix 86/01, 03, 05</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Sånt är livet</nimike>
+		<julk>Epix 86/07</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Ooga Booga</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Mary-Jane</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Mr. Naturals farsa</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Vad nu då</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Så föds snoidar</nimike>
+		<julk>Epix 86/09</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Bo Bo Bolinsk i "Nere på kvartersbaren</nimike>
+		<julk>Epix 86/10</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Kortfattad amerikansk historia</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Avdelningen Serier från andra planeter</nimike>
+		<julk>Epix 87/03</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>TV-blues</nimike>
+		<julk>Epix 87/05</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Mode O'Day</nimike>
+		<julk>Epix 87/08</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Vad hände med våra farföräldrars vackra musik</nimike>
+		<julk>Epix 87/10</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Knallhårda köttbullarna tar över</nimike>
+		<julk>Epix 88/02</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Kraft-i-barm-brudarna</nimike>
+		<julk>Epix 88/05</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Mor Hulda</nimike>
+		<julk>Epix 89/02</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Stenåldersmjukisen</nimike>
+		<julk>Epix 89/10</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Historien om Patton</nimike>
+		<julk>Epix 90/02</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Jag är tacksam! Jag är tacksam!</nimike>
+		<julk>Epix 90/05</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Wichita</nimike>
+		<julk>Epix 90/06</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Samma gamla visa</nimike>
+		<julk>Epix 90/09</julk>
+	</book>
+	<book>
+		<tekija>Crumb, Robert</tekija>
+		<nimike>Ställda mot väggen</nimike>
+		<julk>Epix 91/01</julk>
+	</book>
+	<book>
+		<tekija>Cuneo</tekija>
+		<nimike>Apollonia</nimike>
+		<julk>Epix 89/06, 09, 90/06, 08, 09, 10</julk>
+	</book>
+	<book>
+		<tekija>Das Pastoras</tekija>
+		<nimike>Kärlek för livet</nimike>
+		<julk>Epix 87/10</julk>
+	</book>
+	<book>
+		<tekija>Das Pastoras</tekija>
+		<nimike>Vänthall första klass</nimike>
+		<julk>Epix 88/06</julk>
+	</book>
+	<book>
+		<tekija>Das Pastoras</tekija>
+		<nimike>That's rag</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>De Angelis &amp; Saudelli</tekija>
+		<nimike>Kanshi</nimike>
+		<julk>Epix 89/10</julk>
+	</book>
+	<book>
+		<tekija>De Jager, G. &amp; Stevenhagen, W.</tekija>
+		<nimike>Familjen Struul</nimike>
+		<julk>Epix 90/08, 09, 11, 91/01, 02</julk>
+	</book>
+	<book>
+		<tekija>De Loustal, J &amp; Paringeaux, P.</tekija>
+		<nimike>Hjärtan av sand</nimike>
+		<julk>Epix 85/04-08</julk>
+	</book>
+	<book>
+		<tekija>De Loustal, J &amp; Paringeaux, P.</tekija>
+		<nimike>Den vita kvinnan</nimike>
+		<julk>Epix 86/12</julk>
+	</book>
+	<book>
+		<tekija>De Loustal, J &amp; Paringeaux, P.</tekija>
+		<nimike>Alligatorns natt</nimike>
+		<julk>Epix 87/07</julk>
+	</book>
+	<book>
+		<tekija>De Loustal, Jacques</tekija>
+		<nimike>åter till Casablanca</nimike>
+		<julk>Epix 90/09</julk>
+	</book>
+	<book>
+		<tekija>De Loustal, Jacques</tekija>
+		<nimike>Bulimi</nimike>
+		<julk>Epix 92/0304</julk>
+	</book>
+	<book>
+		<tekija>Deleuran, Claus</tekija>
+		<nimike>Mikkeline på skattjakt</nimike>
+		<julk>Epix 87/10-11, 88/01-02</julk>
+	</book>
+	<book>
+		<tekija>Denis, Jean-C</tekija>
+		<nimike>Pepparkarameller</nimike>
+		<julk>Epix 87/02</julk>
+	</book>
+	<book>
+		<tekija>Dethorey, J.-P. &amp; Autheman, J.-P.</tekija>
+		<nimike>Tornet i Dorfgrau</nimike>
+		<julk>Epix 88/02-05</julk>
+	</book>
+	<book>
+		<tekija>Druillet, Philippe</tekija>
+		<nimike>Torquedara Varenkor</nimike>
+		<julk>Epix 84/05</julk>
+	</book>
+	<book>
+		<tekija>Dupuy &amp; Berberian</tekija>
+		<nimike>Vänskapsmatch</nimike>
+		<julk>Epix 89/09</julk>
+	</book>
+	<book>
+		<tekija>Dupuy &amp; Berberian</tekija>
+		<nimike>Jean går och handlar</nimike>
+		<julk>Epix 91/07</julk>
+	</book>
+	<book>
+		<tekija>Dupuy &amp; Berberian</tekija>
+		<nimike>En söt liten kisse</nimike>
+		<julk>Epix 92/0102</julk>
+	</book>
+	<book>
+		<tekija>Eberoni, Didier</tekija>
+		<nimike>är det långt kvar till havet?</nimike>
+		<julk>Epix 88/07</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Makumba-kumbaleros äventyr</nimike>
+		<julk>Epix 84/01</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Herr Rakitholm</nimike>
+		<julk>Epix 84/02</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Malmskillnadsgatan</nimike>
+		<julk>Epix 84/03</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Strax före åtta</nimike>
+		<julk>Epix 84/05</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Drama</nimike>
+		<julk>Epix 84/06</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Sånt är livet liksom</nimike>
+		<julk>Epix 84/07</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Den obeslutsamme</nimike>
+		<julk>Epix 85/01</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Ljuva barndomsdar</nimike>
+		<julk>Epix 85/02</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Preludium till en fans eftermiddag</nimike>
+		<julk>Epix 85/04</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Hemsk historia</nimike>
+		<julk>Epix 85/05</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Den där dan vid böljans rand</nimike>
+		<julk>Epix 85/06</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Tango-Tango</nimike>
+		<julk>Epix 85/07</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Lifta är livet</nimike>
+		<julk>Epix 85/08</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Jönköpingsexpressen</nimike>
+		<julk>Epix 85/10</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Lättfärdigheter</nimike>
+		<julk>Epix 85/12</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Den blyge</nimike>
+		<julk>Epix 86/01</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Den som ingenting riskerar...</nimike>
+		<julk>Epix 86/02</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Upplysning</nimike>
+		<julk>Epix 86/03</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Den magiska lådan</nimike>
+		<julk>Epix 86/04</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Rör inte min kompis</nimike>
+		<julk>Epix 86/05</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Målvaktens ångest vid straffspark</nimike>
+		<julk>Epix 86/06</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>På kryssning</nimike>
+		<julk>Epix 86/07</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>15 augusti på stranden</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Fortplantningskörtlarnas versamhetsbegynnelse</nimike>
+		<julk>Epix 86/09</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Allting är relativt</nimike>
+		<julk>Epix 86/10</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Jag vill skita i fred!</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Korruption</nimike>
+		<julk>Epix 86/12</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Bug Birger &amp; Co.</nimike>
+		<julk>Epix 87/01</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>New York: 42:a gatan</nimike>
+		<julk>Epix 87/02</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>What's Up, Doc?</nimike>
+		<julk>Epix 87/03</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>En veterinärs eftermiddag</nimike>
+		<julk>Epix 87/04</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Hämnden är en rätt som ska sväljas kall</nimike>
+		<julk>Epix 87/05</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Aah! Solen, havet och allt det där</nimike>
+		<julk>Epix 87/06</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>På playan</nimike>
+		<julk>Epix 87/07</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Hem från semestern</nimike>
+		<julk>Epix 87/08</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Ragga brudar</nimike>
+		<julk>Epix 87/10</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Ett passionerat par</nimike>
+		<julk>Epix 87/12</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Generationsklyftan</nimike>
+		<julk>Epix 88/05</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Industrisemester</nimike>
+		<julk>Epix 88/07</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>En antipatisk älskare</nimike>
+		<julk>Epix 88/11</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Laganda</nimike>
+		<julk>Epix 88/12</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Ett svårt uppdrag för Gino</nimike>
+		<julk>Epix 89/02</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Lära är livet</nimike>
+		<julk>Epix 89/07</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Under Paris broar</nimike>
+		<julk>Epix 89/10</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Hårda tider</nimike>
+		<julk>Epix 89/12</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Inga djur i denna vagn</nimike>
+		<julk>Epix 90/02</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Kylskåpet</nimike>
+		<julk>Epix 90/06</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Glupp</nimike>
+		<julk>Epix 90/08</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Konsten att hålla sej i form</nimike>
+		<julk>Epix 90/10</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Min hare krishna-period</nimike>
+		<julk>Epix 90/12</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>En tandläkares vardag</nimike>
+		<julk>Epix 91/02</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Habib på krogen</nimike>
+		<julk>Epix 91/03</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Syrsan och myran</nimike>
+		<julk>Epix 91/04</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Söndag med familjen</nimike>
+		<julk>Epix 91/05</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Ingen ödla synes än</nimike>
+		<julk>Epix 91/06</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Kvinnan mitt emot</nimike>
+		<julk>Epix 91/07</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>I lumpen</nimike>
+		<julk>Epix 91/09</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Entropins motsägelsefulla mekanismer</nimike>
+		<julk>Epix 92/0102</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Gammeltarzan</nimike>
+		<julk>Epix 92/0304</julk>
+	</book>
+	<book>
+		<tekija>Edika</tekija>
+		<nimike>Utpressning</nimike>
+		<julk>Epix 92/0708</julk>
+	</book>
+	<book>
+		<tekija>Eisner, Will</tekija>
+		<nimike>Processen</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Eisner, Will</tekija>
+		<nimike>Långfristigt kontrakt</nimike>
+		<julk>Epix 87/01</julk>
+	</book>
+	<book>
+		<tekija>Eisner, Will</tekija>
+		<nimike>Seger</nimike>
+		<julk>Epix 87/05</julk>
+	</book>
+	<book>
+		<tekija>Eisner, Will</tekija>
+		<nimike>En deckare eller Svartkonster i Bronx</nimike>
+		<julk>Epix 87/09</julk>
+	</book>
+	<book>
+		<tekija>Eisner, Will</tekija>
+		<nimike>Människor</nimike>
+		<julk>Epix 88/02</julk>
+	</book>
+	<book>
+		<tekija>Elder, Will &amp; Kurtzman, Harvey</tekija>
+		<nimike>Goodman Beaver möter St*lm*nn*n</nimike>
+		<julk>Epix 87/09</julk>
+	</book>
+	<book>
+		<tekija>Elfo</tekija>
+		<nimike>Chicago Blues</nimike>
+		<julk>Epix 84/06-85/02</julk>
+	</book>
+	<book>
+		<tekija>Elfo</tekija>
+		<nimike>San Franciscan Waltz</nimike>
+		<julk>Epix 86/08-11</julk>
+	</book>
+	<book>
+		<tekija>Espinosa, Pedro</tekija>
+		<nimike>Polaroid</nimike>
+		<julk>Epix 86/06</julk>
+	</book>
+	<book>
+		<tekija>Esteve , Jaume</tekija>
+		<nimike>Elix Pomatia</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Fabry, Glenn</tekija>
+		<nimike>Bricktop</nimike>
+		<julk>Epix 91/09-</julk>
+	</book>
+	<book>
+		<tekija>Ferrandez, Jacques &amp; Rodolphe, J.</tekija>
+		<nimike>Första klass</nimike>
+		<julk>Epix 87/02</julk>
+	</book>
+	<book>
+		<tekija>Ferrandez, Jacques &amp; Rodolphe, J.</tekija>
+		<nimike>Det rumänska skrinet</nimike>
+		<julk>Epix 87/04</julk>
+	</book>
+	<book>
+		<tekija>Ferrandez, Jacques &amp; Rodolphe, J.</tekija>
+		<nimike>Der Gruppenführer</nimike>
+		<julk>Epix 87/09</julk>
+	</book>
+	<book>
+		<tekija>Ferrandez, Jacques &amp; Rodolphe, J.</tekija>
+		<nimike>Järndamen</nimike>
+		<julk>Epix 88/01</julk>
+	</book>
+	<book>
+		<tekija>Ferrandez, Jacques &amp; Rodolphe, J.</tekija>
+		<nimike>Solnedgång</nimike>
+		<julk>Epix 88/06</julk>
+	</book>
+	<book>
+		<tekija>Floc'h, Jean-Claude &amp; Riviere, F.</tekija>
+		<nimike>På spaning efter sir Malcolm</nimike>
+		<julk>Epix 86/04-08</julk>
+	</book>
+	<book>
+		<tekija>F'murr</tekija>
+		<nimike>Naftalene och städslöjdaren</nimike>
+		<julk>Epix 85/03</julk>
+	</book>
+	<book>
+		<tekija>F'murr</tekija>
+		<nimike>Fyrframkallarens fruststrejk</nimike>
+		<julk>Epix 85/05</julk>
+	</book>
+	<book>
+		<tekija>F'murr</tekija>
+		<nimike>Postkvinnan springer bara en gång</nimike>
+		<julk>Epix 85/08</julk>
+	</book>
+	<book>
+		<tekija>F'murr</tekija>
+		<nimike>Den 47:e utsikten över Fujiyama</nimike>
+		<julk>Epix 86/01</julk>
+	</book>
+	<book>
+		<tekija>F'murr</tekija>
+		<nimike>Död eller levande, det är samma sak</nimike>
+		<julk>Epix 86/04</julk>
+	</book>
+	<book>
+		<tekija>F'murr</tekija>
+		<nimike>Afghanska anekdoter</nimike>
+		<julk>Epix 88/05, 07, 08, 09, 89/01, 03</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Henrik Slambert är en nolla</nimike>
+		<julk>Epix 84/02</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Theodule Gouatremou kommer hem</nimike>
+		<julk>Epix 84/03</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Trofast min vän</nimike>
+		<julk>Epix 84/05</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Rum 66</nimike>
+		<julk>Epix 84/08</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Rekreation</nimike>
+		<julk>Epix 85/01</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>återvändsgränden</nimike>
+		<julk>Epix 85/03</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Svartsjuka</nimike>
+		<julk>Epix 85/05</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Siegfried och draken</nimike>
+		<julk>Epix 85/07</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Sur uppstötning</nimike>
+		<julk>Epix 85/09</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Herr Gnurgelgams grimas</nimike>
+		<julk>Epix 85/10</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Det är fult at ljuga, grabben</nimike>
+		<julk>Epix 85/11</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Mimile</nimike>
+		<julk>Epix 86/02</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>En helig historia</nimike>
+		<julk>Epix 86/04</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Mors dag</nimike>
+		<julk>Epix 86/05</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Figges lyckodag</nimike>
+		<julk>Epix 86/07</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Historia utan slut</nimike>
+		<julk>Epix 86/09</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>På andra sidan</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Teo, Jerker och Mimosa</nimike>
+		<julk>Epix 87/01</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Rörmokarn</nimike>
+		<julk>Epix 87/03</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>På stranden</nimike>
+		<julk>Epix 87/06</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Zaza</nimike>
+		<julk>Epix 87/09</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Förnfärderna</nimike>
+		<julk>Epix 88/01</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Korsriddarna</nimike>
+		<julk>Epix 88/03</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Samlaren</nimike>
+		<julk>Epix 88/06</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Mosquito</nimike>
+		<julk>Epix 89/01</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Pennskrins jakten</nimike>
+		<julk>Epix 89/04</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Inkräktaren</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>Foerster, Philippe</tekija>
+		<nimike>Hemmakväll i Mullebo</nimike>
+		<julk>Epix 89/12</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Konstnärsliv</nimike>
+		<julk>Epix 84/02</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>En spelarens natt</nimike>
+		<julk>Epix 84/04</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Kastratens sång i skogens djup om kvällen</nimike>
+		<julk>Epix 84/07</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Den grekiske sjömannen</nimike>
+		<julk>Epix 85/07</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Den melankoliske smygtittaren slår till igen</nimike>
+		<julk>Epix 85/10</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Brevet till Irina</nimike>
+		<julk>Epix 85/12</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Kinesiska nätter</nimike>
+		<julk>Epix 86/03</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Interiörer</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Det stulna fotografiet</nimike>
+		<julk>Epix 87/03</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Djungelns konung</nimike>
+		<julk>Epix 87/08</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Storstadsdjungel</nimike>
+		<julk>Epix 87/11</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>En dag kommer en äventyrare</nimike>
+		<julk>Epix 88/09</julk>
+	</book>
+	<book>
+		<tekija>Franc, Regis</tekija>
+		<nimike>Lidelsen att leva</nimike>
+		<julk>Epix 89/02</julk>
+	</book>
+	<book>
+		<tekija>Franquin, Andre</tekija>
+		<nimike>Svarta ideer</nimike>
+		<julk>Epix 84/01-90/02</julk>
+	</book>
+	<book>
+		<tekija>Fred</tekija>
+		<nimike>Victor Baltimores sista cigarett</nimike>
+		<julk>Epix 86/09</julk>
+	</book>
+	<book>
+		<tekija>Fred</tekija>
+		<nimike>Besöket</nimike>
+		<julk>Epix 87/11</julk>
+	</book>
+	<book>
+		<tekija>Fred</tekija>
+		<nimike>Weekend</nimike>
+		<julk>Epix 88/06</julk>
+	</book>
+	<book>
+		<tekija>Fred</tekija>
+		<nimike>En tomte i tiden</nimike>
+		<julk>Epix 89/12</julk>
+	</book>
+	<book>
+		<tekija>Fremond, Denis</tekija>
+		<nimike>Nostalgi i bomull</nimike>
+		<julk>Epix 92/0708</julk>
+	</book>
+	<book>
+		<tekija>Fretet, Alain</tekija>
+		<nimike>Cool jazz</nimike>
+		<julk>Epix 90/04</julk>
+	</book>
+	<book>
+		<tekija>Fromental &amp; Renard</tekija>
+		<nimike>Den vita lastbilen</nimike>
+		<julk>Epix 89/10</julk>
+	</book>
+	<book>
+		<tekija>Gaiman, Neil &amp; McKean, Neil</tekija>
+		<nimike>Black Orchid</nimike>
+		<julk>Epix 91/04-06</julk>
+	</book>
+	<book>
+		<tekija>Galiano</tekija>
+		<nimike>Solen</nimike>
+		<julk>Epix 89/07</julk>
+	</book>
+	<book>
+		<tekija>Ghigliano, Cinzia &amp; Tomatis, Marco</tekija>
+		<nimike>Solange</nimike>
+		<julk>Epix 85/01-05</julk>
+	</book>
+	<book>
+		<tekija>Giacon, M.</tekija>
+		<nimike>Thriller</nimike>
+		<julk>Epix 86/02</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Ungersk rapsodi</nimike>
+		<julk>Epix 86/02-08</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Little Ego</nimike>
+		<julk>Epix 86/02-88/06</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Sam Pezzo - Merry Christmas</nimike>
+		<julk>Epix 86/12</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Sam Pezzo - Hans sista stöt</nimike>
+		<julk>Epix 87/06-08</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Sam Pezzo - Fällan</nimike>
+		<julk>Epix 88/04-05</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Fuktig och långt borta</nimike>
+		<julk>Epix 88/08</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Eftersäsong</nimike>
+		<julk>Epix 88/10</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Under falskt namn</nimike>
+		<julk>Epix 89/03</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Safari</nimike>
+		<julk>Epix 89/06</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Separat semester</nimike>
+		<julk>Epix 89/09</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Vita lögner</nimike>
+		<julk>Epix 90/02</julk>
+	</book>
+	<book>
+		<tekija>Giardino, Vittorio</tekija>
+		<nimike>Little Ego</nimike>
+		<julk>Epix 90/03, 04, 06, 07, 08</julk>
+	</book>
+	<book>
+		<tekija>Gibrat, Jean-Pierre &amp; Simonet, L.</tekija>
+		<nimike>Fördomar</nimike>
+		<julk>Epix 88/03</julk>
+	</book>
+	<book>
+		<tekija>Gimenez, Carlos</tekija>
+		<nimike>Adolfo</nimike>
+		<julk>Epix 87/02</julk>
+	</book>
+	<book>
+		<tekija>Godbout, Real &amp; Fournier, Pierre</tekija>
+		<nimike>Red Ketchup - Kamrat Ultra</nimike>
+		<julk>Epix 91/08-92/0102</julk>
+	</book>
+	<book>
+		<tekija>Goetzinger, Annie</tekija>
+		<nimike>Charnega</nimike>
+		<julk>Epix 87/09</julk>
+	</book>
+	<book>
+		<tekija>Goetzinger, Annie</tekija>
+		<nimike>Monsieur Bills Skjortor</nimike>
+		<julk>Epix 92/0304</julk>
+	</book>
+	<book>
+		<tekija>Goetzinger, Annie &amp; Mora, Victor</tekija>
+		<nimike>I en alldeles lugn stad</nimike>
+		<julk>Epix 88/09</julk>
+	</book>
+	<book>
+		<tekija>Gonzalez, Pepe &amp; Parker, Alan</tekija>
+		<nimike>Flash Back</nimike>
+		<julk>Epix 88/11</julk>
+	</book>
+	<book>
+		<tekija>Goossens, Daniel</tekija>
+		<nimike>Sexualundervisning</nimike>
+		<julk>Epix 86/05</julk>
+	</book>
+	<book>
+		<tekija>Goossens, Daniel</tekija>
+		<nimike>Gör din egen porrtidning</nimike>
+		<julk>Epix 87/05</julk>
+	</book>
+	<book>
+		<tekija>Goossens, Daniel</tekija>
+		<nimike>2-hjulingar</nimike>
+		<julk>Epix 87/12</julk>
+	</book>
+	<book>
+		<tekija>Goossens, Daniel</tekija>
+		<nimike>Hejdii</nimike>
+		<julk>Epix 88/11</julk>
+	</book>
+	<book>
+		<tekija>Goossens, Daniel</tekija>
+		<nimike>Utvecklingens offer</nimike>
+		<julk>Epix 89/03</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Frankensteins brud</nimike>
+		<julk>Epix 84/01</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Proud Mary</nimike>
+		<julk>Epix 84/01</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Nattvarden</nimike>
+		<julk>Epix 84/01</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Pappa Pervers</nimike>
+		<julk>Epix 84/01, 02, 05, 07, 85/01, 02, 03,10, 86/03,11, 89/06, 09, 12, 90/02</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Morgonstund har guld i mund</nimike>
+		<julk>Epix 84/03</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Livslång kärlek</nimike>
+		<julk>Epix 84/04</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Mamma Pervers</nimike>
+		<julk>Epix 84/05</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Kung-Fu med is</nimike>
+		<julk>Epix 84/06</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Stilla natt galna natt</nimike>
+		<julk>Epix 84/08</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Ut i skogen ska vi gå</nimike>
+		<julk>Epix 85/06</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Barbaralice</nimike>
+		<julk>Epix 85/09</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Eländes elände...</nimike>
+		<julk>Epix 85/11</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Exorcism</nimike>
+		<julk>Epix 86/02</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Den lille prinsen</nimike>
+		<julk>Epix 86/04</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Syndafallet</nimike>
+		<julk>Epix 86/07</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Durandal</nimike>
+		<julk>Epix 86/10</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>I rymden kan ingen höra dig kräkas</nimike>
+		<julk>Epix 86/12</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Den felande lemmen</nimike>
+		<julk>Epix 87/02</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Gods' club</nimike>
+		<julk>Epix 87/04</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Televinkar</nimike>
+		<julk>Epix 87/11</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Safari</nimike>
+		<julk>Epix 88/01</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Blottare</nimike>
+		<julk>Epix 89/11</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel</tekija>
+		<nimike>Ballonger</nimike>
+		<julk>Epix 90/01</julk>
+	</book>
+	<book>
+		<tekija>Gotlib, Marcel &amp; Franquin, Andre</tekija>
+		<nimike>Skyskrapan spinner</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Grahn, Mikael</tekija>
+		<nimike>Tillståndet i nationen</nimike>
+		<julk>Epix 90/05</julk>
+	</book>
+	<book>
+		<tekija>Grahn, Mikael &amp; Schröder, H.</tekija>
+		<nimike>Stormkantring</nimike>
+		<julk>Epix 85/06-10</julk>
+	</book>
+	<book>
+		<tekija>Grant &amp; Wagner &amp; McMahon</tekija>
+		<nimike>Den siste amerikanen</nimike>
+		<julk>Epix 91/08-92/0102</julk>
+	</book>
+	<book>
+		<tekija>Guitton, Pierre</tekija>
+		<nimike>Gulkanins sagor - M. Heros rara planet</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Hancock &amp; Cherkas</tekija>
+		<nimike>Experimentet</nimike>
+		<julk>Epix 90/01-90/04</julk>
+	</book>
+	<book>
+		<tekija>Hermann</tekija>
+		<nimike>Tornen i Bois-Maury: Germain</nimike>
+		<julk>Epix 89/07-10</julk>
+	</book>
+	<book>
+		<tekija>Hermann</tekija>
+		<nimike>Tornen i Bois-Maury: Reinhardt</nimike>
+		<julk>Epix 90/07-10</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Rymdlingen</nimike>
+		<julk>Epix 84/08</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Locas tambien</nimike>
+		<julk>Epix 85/04, 86/09</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Retro Rocky</nimike>
+		<julk>Epix 85/05</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Locas starring Hopey</nimike>
+		<julk>Epix 85/06</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Maggie mot Maniak</nimike>
+		<julk>Epix 85/08</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Mekanix (los mujeres perdidas)</nimike>
+		<julk>Epix 85/11-86/03</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Penny Century på drift igen</nimike>
+		<julk>Epix 86/05-06</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Rocky och hennes robot Fummel</nimike>
+		<julk>Epix 86/10</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Locas</nimike>
+		<julk>Epix 87/01, 02, 10, 11 88/02</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>De rasande kvinnornas hus</nimike>
+		<julk>Epix 87/06</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Locas mot Locos</nimike>
+		<julk>Epix 87/08</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Ray D. kommer tillbaka</nimike>
+		<julk>Epix 88/03</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Speedy Ortiz död</nimike>
+		<julk>Epix 88/06-08</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Jerusalem Crickets</nimike>
+		<julk>Epix 89/01</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Kvällen då Ape Sex kom hem</nimike>
+		<julk>Epix 89/02</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Maggie: En salig röra</nimike>
+		<julk>Epix 89/04</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Långt hemifrån</nimike>
+		<julk>Epix 89/06</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Isbjörnarnas dal</nimike>
+		<julk>Epix 89/09-11</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Lar' dog</nimike>
+		<julk>Epix 90/02</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Porträttet</nimike>
+		<julk>Epix 90/03</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Femton miljoner mil från solen</nimike>
+		<julk>Epix 90/04-05</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Nedanför mit fönster...</nimike>
+		<julk>Epix 91/01</julk>
+	</book>
+	<book>
+		<tekija>Hernandez, Jaime</tekija>
+		<nimike>Wig Wam Bam</nimike>
+		<julk>Epix 91/03, 05, 09, 92/0708</julk>
+	</book>
+	<book>
+		<tekija>Herody, Dominique</tekija>
+		<nimike>Atelje Rabouef</nimike>
+		<julk>Epix 87/03</julk>
+	</book>
+	<book>
+		<tekija>Herody, Dominique</tekija>
+		<nimike>Stackars Rabouef</nimike>
+		<julk>Epix 89/02</julk>
+	</book>
+	<book>
+		<tekija>Hewlett, Jamie</tekija>
+		<nimike>Hell City</nimike>
+		<julk>Epix 91/09, 10</julk>
+	</book>
+	<book>
+		<tekija>Hutchinson, Kent</tekija>
+		<nimike>38 ton kärlek</nimike>
+		<julk>Epix 86/07</julk>
+	</book>
+	<book>
+		<tekija>Hutchinson, Kent</tekija>
+		<nimike>38 ton kärlek (omtryck)</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Hutchinson, Kent</tekija>
+		<nimike>London Girl</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Hutchinson, Kent &amp; Bernalin, Philippe</tekija>
+		<nimike>African Night Flight</nimike>
+		<julk>Epix 85/12</julk>
+	</book>
+	<book>
+		<tekija>Jacovitti, Benito</tekija>
+		<nimike>Eroticomania</nimike>
+		<julk>Epix 87/02</julk>
+	</book>
+	<book>
+		<tekija>Jacovitti, Benito</tekija>
+		<nimike>Kama Sutra</nimike>
+		<julk>Epix 87/04, 06</julk>
+	</book>
+	<book>
+		<tekija>Jansson, Ulf</tekija>
+		<nimike>Box 19008</nimike>
+		<julk>Epix 86/09 -</julk>
+	</book>
+	<book>
+		<tekija>Jansson, Ulf</tekija>
+		<nimike>En flygare går i land</nimike>
+		<julk>Epix 88/04</julk>
+	</book>
+	<book>
+		<tekija>Juillard, Andre &amp; Renaud</tekija>
+		<nimike>Skitsnack</nimike>
+		<julk>Epix 88/09</julk>
+	</book>
+	<book>
+		<tekija>Kafka</tekija>
+		<nimike>Jehovas vittnen</nimike>
+		<julk>Epix 89/07</julk>
+	</book>
+	<book>
+		<tekija>Kamagurka &amp; Herr Seele</tekija>
+		<nimike>Cowboyen Sven-Bertil</nimike>
+		<julk>Epix 89/12</julk>
+	</book>
+	<book>
+		<tekija>Kamagurka &amp; Herr Seele</tekija>
+		<nimike>Cowboyen Sven-Bertil</nimike>
+		<julk>Epix 90/01, 02, 07,
+                                                  09, 10, 11</julk>
+	</book>
+	<book>
+		<tekija>Kamagurka &amp; Herr Seele</tekija>
+		<nimike>Cowboyen Sven-Bertil</nimike>
+		<julk>Epix 91/09</julk>
+	</book>
+	<book>
+		<tekija>Kim &amp; Marta &amp; Pons</tekija>
+		<nimike>Dö i natten</nimike>
+		<julk>Epix 86/02</julk>
+	</book>
+	<book>
+		<tekija>Kirchner, Paul</tekija>
+		<nimike>Leka med dockor</nimike>
+		<julk>Epix 88/08</julk>
+	</book>
+	<book>
+		<tekija>Korkos</tekija>
+		<nimike>Madame Amelie och hennes yllestrumpor</nimike>
+		<julk>Epix 88/05</julk>
+	</book>
+	<book>
+		<tekija>Kurtzman, Harvey</tekija>
+		<nimike>Pot-shot Pete</nimike>
+		<julk>Epix 87/11, 12, 88/02</julk>
+	</book>
+	<book>
+		<tekija>Kurtzman, Harvey &amp; Levine, D.</tekija>
+		<nimike>Julsång på prosa</nimike>
+		<julk>Epix 89/12</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>Så bananalt</nimike>
+		<julk>Epix 88/03</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>Scener ur ett äktenskap</nimike>
+		<julk>Epix 88/05</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>Peruken</nimike>
+		<julk>Epix 89/03</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>På smällen</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>Finnen</nimike>
+		<julk>Epix 89/10</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>Fjollornas nyårsbal</nimike>
+		<julk>Epix 90/01</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>Mördarkondomen</nimike>
+		<julk>Epix 90/03-07</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>Galaföreställning i Globen</nimike>
+		<julk>Epix 90/10</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>Filmkrönikan</nimike>
+		<julk>Epix 91/01</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>Skräckkondomen II, dödligt gummi</nimike>
+		<julk>Epix 91/02-08</julk>
+	</book>
+	<book>
+		<tekija>König, Ralf</tekija>
+		<nimike>Rocky IV</nimike>
+		<julk>Epix 91/09</julk>
+	</book>
+	<book>
+		<tekija>Lacroix, Jean-Claire</tekija>
+		<nimike>Nattvak</nimike>
+		<julk>Epix 88/08</julk>
+	</book>
+	<book>
+		<tekija>Lacroix, Yves &amp; Lax</tekija>
+		<nimike>Med vägen som mål</nimike>
+		<julk>Epix 89/09-90/01</julk>
+	</book>
+	<book>
+		<tekija>Larbi, Mechkour</tekija>
+		<nimike>Saeda</nimike>
+		<julk>Epix 90/01</julk>
+	</book>
+	<book>
+		<tekija>Larbi, Mechkour</tekija>
+		<nimike>Saeda - Rock'n'rai</nimike>
+		<julk>Epix 90/04</julk>
+	</book>
+	<book>
+		<tekija>Lauzier, Gerard</tekija>
+		<nimike>Stockholm de e Stockholm de...</nimike>
+		<julk>Epix 86/06</julk>
+	</book>
+	<book>
+		<tekija>Lauzier, Gerard</tekija>
+		<nimike>Valerie-Charlotte</nimike>
+		<julk>Epix 87/06</julk>
+	</book>
+	<book>
+		<tekija>Le Tendre &amp; Plessix</tekija>
+		<nimike>Hoppa hoppa</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>Lelong</tekija>
+		<nimike>Carmen Krut - Grannar</nimike>
+		<julk>Epix 88/02</julk>
+	</book>
+	<book>
+		<tekija>Lelong</tekija>
+		<nimike>Carmen Krut - Hushållssopor</nimike>
+		<julk>Epix 88/03</julk>
+	</book>
+	<book>
+		<tekija>Lelong</tekija>
+		<nimike>Carmen Krut - Posten</nimike>
+		<julk>Epix 88/04</julk>
+	</book>
+	<book>
+		<tekija>Lelong</tekija>
+		<nimike>Carmen Krut</nimike>
+		<julk>Epix 90/03</julk>
+	</book>
+	<book>
+		<tekija>Liberatore</tekija>
+		<nimike>Mums!</nimike>
+		<julk>Epix 89/12</julk>
+	</book>
+	<book>
+		<tekija>Loisel &amp; Miltidjan</tekija>
+		<nimike>Vyssan lull</nimike>
+		<julk>Epix 90/03</julk>
+	</book>
+	<book>
+		<tekija>Losilla, Jose Luis</tekija>
+		<nimike>Mister Jones</nimike>
+		<julk>Epix 86/07</julk>
+	</book>
+	<book>
+		<tekija>Losilla, Jose Luis</tekija>
+		<nimike>Kopisten</nimike>
+		<julk>Epix 87/08</julk>
+	</book>
+	<book>
+		<tekija>Lynch, Bob</tekija>
+		<nimike>Fantasins makt</nimike>
+		<julk>Epix 89/02</julk>
+	</book>
+	<book>
+		<tekija>Lynch, Bob</tekija>
+		<nimike>Lille Andy och jag</nimike>
+		<julk>Epix 89/04</julk>
+	</book>
+	<book>
+		<tekija>Makyo &amp; Frank</tekija>
+		<nimike>Tjejer är pest</nimike>
+		<julk>Epix 90/01</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>Resan till Gwendoline</nimike>
+		<julk>Epix 84/01-05</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>Gori Baus' och Gallipyga Sisters' tragiska ändalykt</nimike>
+		<julk>Epix 85/11</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>En flicka för sommaren</nimike>
+		<julk>Epix 86/03</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>En doft av erotik</nimike>
+		<julk>Epix 86/04-87/02</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>Reklam</nimike>
+		<julk>Epix 87/07</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>Mors tua, vita mea</nimike>
+		<julk>Epix 87/12</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>Dolda kameran</nimike>
+		<julk>Epix 89/06, 07, 08, 11</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>Dolda kameran</nimike>
+		<julk>Epix 90/10</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>Click 2</nimike>
+		<julk>Epix 92/0102-</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>Konsten att ragga brudar</nimike>
+		<julk>Epix 87/12</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>På hal is</nimike>
+		<julk>Epix 87/12</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>Lucien muggar</nimike>
+		<julk>Epix 88/05-09</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>Skidsemester</nimike>
+		<julk>Epix 89/01</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>Raymond Punkaren</nimike>
+		<julk>Epix 89/06</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>Den gamla goda tiden</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>Sjömansliv</nimike>
+		<julk>Epix 90/09</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>Tystnad - tagning</nimike>
+		<julk>Epix 90/10</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>De 100 Renaulterna</nimike>
+		<julk>Epix 91/02</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>Mjölkkannan</nimike>
+		<julk>Epix 91/03</julk>
+	</book>
+	<book>
+		<tekija>Margerin, Frank</tekija>
+		<nimike>Lucien gör intryck</nimike>
+		<julk>Epix 91/07</julk>
+	</book>
+	<book>
+		<tekija>Masse, Francis</tekija>
+		<nimike>El Nino och noshörningen</nimike>
+		<julk>Epix 85/02</julk>
+	</book>
+	<book>
+		<tekija>Masse, Francis</tekija>
+		<nimike>Nollpunkten</nimike>
+		<julk>Epix 85/08</julk>
+	</book>
+	<book>
+		<tekija>Masse, Francis</tekija>
+		<nimike>Linje 12</nimike>
+		<julk>Epix 86/05</julk>
+	</book>
+	<book>
+		<tekija>Masse, Francis</tekija>
+		<nimike>Avlöningsdag hos autokratin</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Masse, Francis</tekija>
+		<nimike>Pappas voffsing</nimike>
+		<julk>Epix 87/09</julk>
+	</book>
+	<book>
+		<tekija>Masse, Francis</tekija>
+		<nimike>Tristan och Isolde</nimike>
+		<julk>Epix 88/02</julk>
+	</book>
+	<book>
+		<tekija>Masse, Francis</tekija>
+		<nimike>Wonderland (Vulcano-Splash)</nimike>
+		<julk>Epix 88/05</julk>
+	</book>
+	<book>
+		<tekija>Masse, Francis</tekija>
+		<nimike>Wonderland (Abdallah)</nimike>
+		<julk>Epix 88/08</julk>
+	</book>
+	<book>
+		<tekija>Masse, Francis</tekija>
+		<nimike>Wonderland (Professor Wolff)</nimike>
+		<julk>Epix 88/10</julk>
+	</book>
+	<book>
+		<tekija>Mattotti, Lorenzo &amp; Kramsky, J.</tekija>
+		<nimike>Farlig smitta</nimike>
+		<julk>Epix 86/05</julk>
+	</book>
+	<book>
+		<tekija>Mattotti, Lorenzo &amp; Kramsky, J.</tekija>
+		<nimike>Paradiset</nimike>
+		<julk>Epix 88/08</julk>
+	</book>
+	<book>
+		<tekija>Max</tekija>
+		<nimike>Lite groteskt</nimike>
+		<julk>Epix 86/01</julk>
+	</book>
+	<book>
+		<tekija>McKay, Windsor</tekija>
+		<nimike>Den varma ostmackeslavens drömmar</nimike>
+		<julk>Epix 90/08, 09, 11</julk>
+	</book>
+	<book>
+		<tekija>Messner-Loebs, William</tekija>
+		<nimike>Spaningen</nimike>
+		<julk>Epix 88/09</julk>
+	</book>
+	<book>
+		<tekija>Mills, Pat</tekija>
+		<nimike>Svart mans börda</nimike>
+		<julk>Epix 90/11</julk>
+	</book>
+	<book>
+		<tekija>Moebius</tekija>
+		<nimike>Ballad</nimike>
+		<julk>Epix 84/01</julk>
+	</book>
+	<book>
+		<tekija>Montellier, Chantal</tekija>
+		<nimike>Nådeansökan</nimike>
+		<julk>Epix 85/05</julk>
+	</book>
+	<book>
+		<tekija>Montellier, Chantal</tekija>
+		<nimike>Tituba</nimike>
+		<julk>Epix 88/04</julk>
+	</book>
+	<book>
+		<tekija>Mouclier, Joel</tekija>
+		<nimike>Sjöjungfrun</nimike>
+		<julk>Epix 91/07</julk>
+	</book>
+	<book>
+		<tekija>Nazario</tekija>
+		<nimike>Copis dotter</nimike>
+		<julk>Epix 86/04</julk>
+	</book>
+	<book>
+		<tekija>Nazario</tekija>
+		<nimike>Anarcoma (Volym 2)</nimike>
+		<julk>Epix 87/05-07</julk>
+	</book>
+	<book>
+		<tekija>Ostrander, John &amp; Lloyd, David</tekija>
+		<nimike>Embryo</nimike>
+		<julk>Epix 92/0102</julk>
+	</book>
+	<book>
+		<tekija>Perini, Roberto</tekija>
+		<nimike>Anatomilektionen</nimike>
+		<julk>Epix 89/03</julk>
+	</book>
+	<book>
+		<tekija>Pinel &amp; Raff</tekija>
+		<nimike>Kärlekspar på Marias bar</nimike>
+		<julk>Epix 87/09</julk>
+	</book>
+	<book>
+		<tekija>Pinel &amp; Raff</tekija>
+		<nimike>Generalens staty</nimike>
+		<julk>Epix 88/05</julk>
+	</book>
+	<book>
+		<tekija>Pinel &amp; Raff</tekija>
+		<nimike>Allah är stor</nimike>
+		<julk>Epix 88/10</julk>
+	</book>
+	<book>
+		<tekija>Pinsent, Ed</tekija>
+		<nimike>Den siste eskimån</nimike>
+		<julk>Epix 88/09</julk>
+	</book>
+	<book>
+		<tekija>Plessix</tekija>
+		<nimike>Så snart vinden friskar i</nimike>
+		<julk>Epix 90/06</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguel Angel</tekija>
+		<nimike>Haru tio spänn?</nimike>
+		<julk>Epix 88/06</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguel Angel</tekija>
+		<nimike>Så kall ni är om hunden</nimike>
+		<julk>Epix 88/10</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguel Angel</tekija>
+		<nimike>Självkontroll</nimike>
+		<julk>Epix 88/12</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguel Angel</tekija>
+		<nimike>Hoppa hage</nimike>
+		<julk>Epix 89/07</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguel Angel</tekija>
+		<nimike>Råttinvasion</nimike>
+		<julk>Epix 89/09</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguel Angel</tekija>
+		<nimike>Energimiraklet</nimike>
+		<julk>Epix 89/11</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguel Angel</tekija>
+		<nimike>Vardagsmat</nimike>
+		<julk>Epix 90/04, 05, 07, 09, 91/01, 03, 92/0304</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguel Angel</tekija>
+		<nimike>Höstskymning</nimike>
+		<julk>Epix 90/10</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguel Angel</tekija>
+		<nimike>Bilverstaden</nimike>
+		<julk>Epix 90/11</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguel Angel</tekija>
+		<nimike>Julgranen</nimike>
+		<julk>Epix 90/12</julk>
+	</book>
+	<book>
+		<tekija>Rahmberg, Ulf</tekija>
+		<nimike>Castafiores juvel</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>Rossi, Christian &amp; Le Tendre, Serge</tekija>
+		<nimike>Lea</nimike>
+		<julk>Epix 87/02-05</julk>
+	</book>
+	<book>
+		<tekija>Rossi, Christian &amp; Le Tendre, Serge</tekija>
+		<nimike>Huset</nimike>
+		<julk>Epix 89/04-07</julk>
+	</book>
+	<book>
+		<tekija>Rotundo, Massimo</tekija>
+		<nimike>Esotica</nimike>
+		<julk>Epix 89/06</julk>
+	</book>
+	<book>
+		<tekija>Rotundo, Massimo &amp; Ferrandino, G.</tekija>
+		<nimike>Staden utan återvändo</nimike>
+		<julk>Epix 90/05-08</julk>
+	</book>
+	<book>
+		<tekija>Rotundo, Massimo &amp; Ferrandino, G.</tekija>
+		<nimike>Gudaskymning</nimike>
+		<julk>Epix 89/02-05</julk>
+	</book>
+	<book>
+		<tekija>Rotundo, Massimo &amp; Saudelli, Franco</tekija>
+		<nimike>Skeppsbruten</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>Rotundo, Massimo &amp; Saudelli, Franco</tekija>
+		<nimike>Exotica - en månskensnatt</nimike>
+		<julk>Epix 89/01</julk>
+	</book>
+	<book>
+		<tekija>Rotundo, Massimo &amp; Saudelli, Franco</tekija>
+		<nimike>Osvaldo</nimike>
+		<julk>Epix 89/11</julk>
+	</book>
+	<book>
+		<tekija>Sabeur &amp; Djaz</tekija>
+		<nimike>Fertilitas</nimike>
+		<julk>Epix 90/04</julk>
+	</book>
+	<book>
+		<tekija>Sacco, Joe</tekija>
+		<nimike>Gulliver Dillhöns och hans trygghetsförmåner</nimike>
+		<julk>Epix 88/07</julk>
+	</book>
+	<book>
+		<tekija>Sacco, Joe</tekija>
+		<nimike>Edvin Småsten och manschettupproret</nimike>
+		<julk>Epix 88/08</julk>
+	</book>
+	<book>
+		<tekija>Sacco, Joe</tekija>
+		<nimike>Assar Smulhjärna</nimike>
+		<julk>Epix 88/10</julk>
+	</book>
+	<book>
+		<tekija>Sacco, Joe</tekija>
+		<nimike>Alessio Målarkludd</nimike>
+		<julk>Epix 89/01</julk>
+	</book>
+	<book>
+		<tekija>Sacco, Joe</tekija>
+		<nimike>Den nya generationen</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>Sacco, Joe</tekija>
+		<nimike>Hilmer Slaklund söker sig en vän</nimike>
+		<julk>Epix 89/12</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo - Legenden om den sårade gangstern</nimike>
+		<julk>Epix 89/03</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo - Opereta, ett lätt stycke</nimike>
+		<julk>Epix 89/04</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo - Bilder på en berömd pianist</nimike>
+		<julk>Epix 89/07</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo - Epidemin</nimike>
+		<julk>Epix 89/11</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo - Skulden</nimike>
+		<julk>Epix 90/01</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo - Låt barnen komma till Miller</nimike>
+		<julk>Epix 90/03</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo - Hämnaren</nimike>
+		<julk>Epix 90/05</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo - Hammarmorden</nimike>
+		<julk>Epix 90/07</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo - Sista ronden</nimike>
+		<julk>Epix 90/11</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo i Zigenarna</nimike>
+		<julk>Epix 91/04</julk>
+	</book>
+	<book>
+		<tekija>Solano Lopez, F. &amp; Sampayo, C.</tekija>
+		<nimike>Kommissarie Evaristo - En handelsresandes död</nimike>
+		<julk>Epix 91/08</julk>
+	</book>
+	<book>
+		<tekija>Scandola, Daniele</tekija>
+		<nimike>Möten</nimike>
+		<julk>Epix 85/04</julk>
+	</book>
+	<book>
+		<tekija>Scheuer, C &amp; Rodolphe, J.</tekija>
+		<nimike>Marie-Jade - I den blå timmen</nimike>
+		<julk>Epix 84/04</julk>
+	</book>
+	<book>
+		<tekija>Scheuer, C &amp; Rodolphe, J.</tekija>
+		<nimike>Marie-Jade - Piratens fästmö</nimike>
+		<julk>Epix 85/01</julk>
+	</book>
+	<book>
+		<tekija>Scheuer, C &amp; Rodolphe, J.</tekija>
+		<nimike>Marie-Jade - En regnig dag</nimike>
+		<julk>Epix 85/04</julk>
+	</book>
+	<book>
+		<tekija>Scheuer, C &amp; Rodolphe, J.</tekija>
+		<nimike>Marie-Jade - Blåsten</nimike>
+		<julk>Epix 85/06</julk>
+	</book>
+	<book>
+		<tekija>Scheuer, C &amp; Rodolphe, J.</tekija>
+		<nimike>Marie-Jade - Mjölkbudet</nimike>
+		<julk>Epix 86/11</julk>
+	</book>
+	<book>
+		<tekija>Scheuer, C &amp; Rodolphe, J.</tekija>
+		<nimike>Marie-Jade - Charader</nimike>
+		<julk>Epix 87/03</julk>
+	</book>
+	<book>
+		<tekija>Scheuer, C &amp; Rodolphe, J.</tekija>
+		<nimike>Marie-Jade - Den ädle vilden</nimike>
+		<julk>Epix 87/07</julk>
+	</book>
+	<book>
+		<tekija>Scheuer, C &amp; Rodolphe, J.</tekija>
+		<nimike>Marie-Jade - Nougatdrottningen</nimike>
+		<julk>Epix 88/01</julk>
+	</book>
+	<book>
+		<tekija>Scheuer, C &amp; Rodolphe, J.</tekija>
+		<nimike>Marie-Jade - Privilegier</nimike>
+		<julk>Epix 88/04</julk>
+	</book>
+	<book>
+		<tekija>Scheuer, C &amp; Rodolphe, J.</tekija>
+		<nimike>Marie-Jade - Farewell</nimike>
+		<julk>Epix 88/05</julk>
+	</book>
+	<book>
+		<tekija>Schreurs, Eric</tekija>
+		<nimike>Svällmjälten Oskar</nimike>
+		<julk>Epix 88/04</julk>
+	</book>
+	<book>
+		<tekija>Schreurs, Eric</tekija>
+		<nimike>Allan Glappkork</nimike>
+		<julk>Epix 88/11, 12, 89/01, 02, 06, 08, 09, 10, 11</julk>
+	</book>
+	<book>
+		<tekija>Schuiten, Francois &amp; Peeters, B.</tekija>
+		<nimike>Det stora gallret</nimike>
+		<julk>Epix 88/09-89/01</julk>
+	</book>
+	<book>
+		<tekija>Schultheiss, Matthias</tekija>
+		<nimike>Hajens byte</nimike>
+		<julk>Epix 90/03-06</julk>
+	</book>
+	<book>
+		<tekija>Sento &amp; de Espana, Ramon</tekija>
+		<nimike>Velvet nights</nimike>
+		<julk>Epix 85/05-08</julk>
+	</book>
+	<book>
+		<tekija>Servais, Jean-Claude</tekija>
+		<nimike>Oktober</nimike>
+		<julk>Epix 88/10</julk>
+	</book>
+	<book>
+		<tekija>Servais, Jean-Claude</tekija>
+		<nimike>Almanackan - September</nimike>
+		<julk>Epix 89/09</julk>
+	</book>
+	<book>
+		<tekija>Servais, Jean-Claude &amp; Dewamme, G.</tekija>
+		<nimike>Violette - Ondskans by 1</nimike>
+		<julk>Epix 89/02-07</julk>
+	</book>
+	<book>
+		<tekija>Sienkiewicz, Bill &amp; Miller, Frank</tekija>
+		<nimike>Daredevil</nimike>
+		<julk>Epix 91/01-03</julk>
+	</book>
+	<book>
+		<tekija>Smolderen, T. &amp; Marcele, P.</tekija>
+		<nimike>Privatkliniken</nimike>
+		<julk>Epix 92/0708</julk>
+	</book>
+	<book>
+		<tekija>Sokal, Benoit</tekija>
+		<nimike>Ett hundliv</nimike>
+		<julk>Epix 84/01-04</julk>
+	</book>
+	<book>
+		<tekija>Sokal, Benoit</tekija>
+		<nimike>Rasputins märke</nimike>
+		<julk>Epix 85/02-06</julk>
+	</book>
+	<book>
+		<tekija>Sokal, Benoit</tekija>
+		<nimike>Den ljuva döden</nimike>
+		<julk>Epix 85/10-86/02</julk>
+	</book>
+	<book>
+		<tekija>Sokal, Benoit</tekija>
+		<nimike>Blodsbröllop</nimike>
+		<julk>Epix 87/03-06</julk>
+	</book>
+	<book>
+		<tekija>Sokal, Benoit</tekija>
+		<nimike>De vita fåglarnas rike</nimike>
+		<julk>Epix 88/10-89/01</julk>
+	</book>
+	<book>
+		<tekija>Sokal, Benoit</tekija>
+		<nimike>Den vita Cadillacen</nimike>
+		<julk>Epix 92/0304</julk>
+	</book>
+	<book>
+		<tekija>Sommer, Mannfred</tekija>
+		<nimike>Jangada</nimike>
+		<julk>Epix 90/02</julk>
+	</book>
+	<book>
+		<tekija>Sperzel</tekija>
+		<nimike>Aldrig utan</nimike>
+		<julk>Epix 88/04</julk>
+	</book>
+	<book>
+		<tekija>Sterret, Cliff</tekija>
+		<nimike>Polly med vänner</nimike>
+		<julk>Epix 91/07</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost</tekija>
+		<nimike>En chans på miljonen</nimike>
+		<julk>Epix 85/04</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost</tekija>
+		<nimike>Slav under nålen</nimike>
+		<julk>Epix 85/08</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost</tekija>
+		<nimike>Ett andra Babel</nimike>
+		<julk>Epix 85/10</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost</tekija>
+		<nimike>Modern Art</nimike>
+		<julk>Epix 86/01</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost</tekija>
+		<nimike>Imago Moderna</nimike>
+		<julk>Epix 86/03</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost</tekija>
+		<nimike>Goodbye</nimike>
+		<julk>Epix 86/05</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost</tekija>
+		<nimike>Nattens ögon</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost</tekija>
+		<nimike>Herges äventyr för 50 år sedan</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost</tekija>
+		<nimike>Anton Makassar</nimike>
+		<julk>Epix 86/09</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost</tekija>
+		<nimike>Caesar Soda</nimike>
+		<julk>Epix 86/10</julk>
+	</book>
+	<book>
+		<tekija>Swaarte, Joost &amp; King, Albert</tekija>
+		<nimike>I'll Play the Blues for You</nimike>
+		<julk>Epix 87/03</julk>
+	</book>
+	<book>
+		<tekija>Taffin, Olivier</tekija>
+		<nimike>Allaive</nimike>
+		<julk>Epix 87/11-88/02</julk>
+	</book>
+	<book>
+		<tekija>Tatum</tekija>
+		<nimike>Min första tjockis</nimike>
+		<julk>Epix 87/04</julk>
+	</book>
+	<book>
+		<tekija>Tha &amp; Bigart</tekija>
+		<nimike>Erotikens säte</nimike>
+		<julk>Epix 88/09</julk>
+	</book>
+	<book>
+		<tekija>Tha &amp; Bigart</tekija>
+		<nimike>Kärlekens röst</nimike>
+		<julk>Epix 89/01</julk>
+	</book>
+	<book>
+		<tekija>Tha &amp; Bigart</tekija>
+		<nimike>Något som just slog mig</nimike>
+		<julk>Epix 89/03</julk>
+	</book>
+	<book>
+		<tekija>Tha &amp; Bigart</tekija>
+		<nimike>Absurdus Delirium</nimike>
+		<julk>Epix 90/06</julk>
+	</book>
+	<book>
+		<tekija>Theureau, Laurent</tekija>
+		<nimike>Dinosaur Park</nimike>
+		<julk>Epix 88/04-05</julk>
+	</book>
+	<book>
+		<tekija>Thomas, Francois</tekija>
+		<nimike>Stan Kajman</nimike>
+		<julk>Epix 84/01,...</julk>
+	</book>
+	<book>
+		<tekija>Tidy, Bill</tekija>
+		<nimike>Fosdyke-sagan</nimike>
+		<julk>Epix 90/06-</julk>
+	</book>
+	<book>
+		<tekija>Toppi, Sergio</tekija>
+		<nimike>Katana</nimike>
+		<julk>Epix 88/12</julk>
+	</book>
+	<book>
+		<tekija>Torres, Daniel</tekija>
+		<nimike>Triton</nimike>
+		<julk>Epix 84/06-85/01</julk>
+	</book>
+	<book>
+		<tekija>Torres, Daniel</tekija>
+		<nimike>Rösten som väste</nimike>
+		<julk>Epix 85/10-86/01</julk>
+	</book>
+	<book>
+		<tekija>Torres, Daniel</tekija>
+		<nimike>Saxxon</nimike>
+		<julk>Epix 86/10-87/01</julk>
+	</book>
+	<book>
+		<tekija>Torres, Daniel</tekija>
+		<nimike>Fjärran stjärna</nimike>
+		<julk>Epix 88/01-04</julk>
+	</book>
+	<book>
+		<tekija>Torti, Rodolfo &amp; Dal Pra, Roberto</tekija>
+		<nimike>Der Sturm</nimike>
+		<julk>Epix 88/11-89/02</julk>
+	</book>
+	<book>
+		<tekija>Torti, Rodolfo &amp; Dal Pra, Roberto</tekija>
+		<nimike>Den eviga staden</nimike>
+		<julk>Epix 90/12-91/03</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Raymond Calbuth i "Odjuren"</nimike>
+		<julk>Epix 86/07</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Raymond Calbuth: Position remi</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Plan 714 till Sillunda</nimike>
+		<julk>Epix 89/02</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Vinna eller försvinna</nimike>
+		<julk>Epix 89/03</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Vi klarade det!</nimike>
+		<julk>Epix 89/04</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Operation fisksoppa</nimike>
+		<julk>Epix 89/07</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Hem ljuva hemsamarit</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Livet är en fest</nimike>
+		<julk>Epix 89/09</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Ingen jul utan tårta</nimike>
+		<julk>Epix 89/12</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Familjen Simpel</nimike>
+		<julk>Epix 90/01</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>En härlig weekend</nimike>
+		<julk>Epix 90/05</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Familjen Simpel</nimike>
+		<julk>Epix 90/07</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Familjen Banwall</nimike>
+		<julk>Epix 90/08</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Herr Grytlund</nimike>
+		<julk>Epix 90/11</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Alternativ jul</nimike>
+		<julk>Epix 90/12</julk>
+	</book>
+	<book>
+		<tekija>Tronchet</tekija>
+		<nimike>Gamlingen</nimike>
+		<julk>Epix 91/02</julk>
+	</book>
+	<book>
+		<tekija>Tronchet &amp; Gelli</tekija>
+		<nimike>Alan Flash och Blå Lotus-mysteriets hemlighet</nimike>
+		<julk>Epix 90/05-08</julk>
+	</book>
+	<book>
+		<tekija>Tronchet &amp; Vatine</tekija>
+		<nimike>Balladen om Jim</nimike>
+		<julk>Epix 89/10</julk>
+	</book>
+	<book>
+		<tekija>Warnaurts &amp; Raives</tekija>
+		<nimike>Kongo</nimike>
+		<julk>Epix 89/08-11</julk>
+	</book>
+	<book>
+		<tekija>Vatine &amp; Cailleteau, Thierry</tekija>
+		<nimike>Baby-Sitting Blues</nimike>
+		<julk>Epix 88/03</julk>
+	</book>
+	<book>
+		<tekija>Weiner, Ken</tekija>
+		<nimike>Partyt är över</nimike>
+		<julk>Epix 91/02</julk>
+	</book>
+	<book>
+		<tekija>Vern, Jean &amp; Christin, Pierre</tekija>
+		<nimike>Trip</nimike>
+		<julk>Epix 84/03</julk>
+	</book>
+	<book>
+		<tekija>Veyron, Martin</tekija>
+		<nimike>Den rena kärleken</nimike>
+		<julk>Epix 85/05-86/01</julk>
+	</book>
+	<book>
+		<tekija>Veyron, Martin</tekija>
+		<nimike>Resandets tjusning</nimike>
+		<julk>Epix 87/07</julk>
+	</book>
+	<book>
+		<tekija>Veyron, Martin</tekija>
+		<nimike>I skattmasens namn</nimike>
+		<julk>Epix 87/09</julk>
+	</book>
+	<book>
+		<tekija>Veyron, Martin</tekija>
+		<nimike>Nord-Västdialogen</nimike>
+		<julk>Epix 87/11</julk>
+	</book>
+	<book>
+		<tekija>Veyron, Martin</tekija>
+		<nimike>Divalater</nimike>
+		<julk>Epix 88/01</julk>
+	</book>
+	<book>
+		<tekija>Veyron, Martin</tekija>
+		<nimike>Kärleken är blind, svartsjukan tjuvkikar!</nimike>
+		<julk>Epix 88/03</julk>
+	</book>
+	<book>
+		<tekija>Veyron, Martin</tekija>
+		<nimike>Bernard Lermite blir spion</nimike>
+		<julk>Epix 89/04</julk>
+	</book>
+	<book>
+		<tekija>Vink</tekija>
+		<nimike>Den galne munken</nimike>
+		<julk>Epix 87/01-05</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Gubbstöten</nimike>
+		<julk>Epix 85/03</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Blåsa bossen</nimike>
+		<julk>Epix 85/07</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Saxat</nimike>
+		<julk>Epix 85/08</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Som en hare</nimike>
+		<julk>Epix 85/10</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>I stället för gloria</nimike>
+		<julk>Epix 86/01</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Ett modellfall</nimike>
+		<julk>Epix 86/03</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Platt fall</nimike>
+		<julk>Epix 86/06</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Katten på råttan</nimike>
+		<julk>Epix 88/07</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Ett jobb är värt kulor</nimike>
+		<julk>Epix 88/11</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Lösa kontakter</nimike>
+		<julk>Epix 89/01</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Dataträffen</nimike>
+		<julk>Epix 89/03</julk>
+	</book>
+	<book>
+		<tekija>Violeff</tekija>
+		<nimike>Borta bra hemma bäst</nimike>
+		<julk>Epix 89/08</julk>
+	</book>
+	<book>
+		<tekija>Yann &amp; Bodart</tekija>
+		<nimike>Nikotine Tjära söker jobb</nimike>
+		<julk>Epix 90/03</julk>
+	</book>
+	<book>
+		<tekija>Yann &amp; Bodart</tekija>
+		<nimike>Nikotine Tjära smurfar på</nimike>
+		<julk>Epix 90/04</julk>
+	</book>
+	<book>
+		<tekija>Yann &amp; Bodart</tekija>
+		<nimike>Nikotine Tjära</nimike>
+		<julk>Epix 91/01</julk>
+	</book>
+	<book>
+		<tekija>Yann &amp; Bodart</tekija>
+		<nimike>Nikotine Tjära; Hårda bud i sädesledaren</nimike>
+		<julk>Epix 91/08</julk>
+	</book>
+	<book>
+		<tekija>Yann &amp; Conrad, Didier</tekija>
+		<nimike>äventyr i gult</nimike>
+		<julk>Epix 86/09-87/01</julk>
+	</book>
+	<book>
+		<tekija>Yann &amp; Hardy</tekija>
+		<nimike>Lollo &amp; Sussi</nimike>
+		<julk>Epix 89/06, 09, 10, 11, 12, 90/01, 02, 03, 06, 07, 08</julk>
+	</book>
+	<book>
+		<tekija>Yann &amp; Le Gall, Frank</tekija>
+		<nimike>Den svarta månen</nimike>
+		<julk>Epix 87/07-10</julk>
+	</book>
+	<book>
+		<tekija>Yslaire &amp; Renaud</tekija>
+		<nimike>Mimi är less</nimike>
+		<julk>Epix 88/06</julk>
+	</book>
+	<book>
+		<tekija>Zarate, O. &amp; Sampayo, C.</tekija>
+		<nimike>Brixton: Lidelsen och skammen</nimike>
+		<julk>Epix 86/08</julk>
+	</book>
+	<book>
+		<nimike>Mucka inte gräl med Rupert</nimike>
+		<julk>Epix 87/11</julk>
+	</book>
+</catalog>

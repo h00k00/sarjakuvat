@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<book>
+	<tekija>-</tekija> 
+	<nimike>Tintin och de fyrtio tecknarna</nimike>
+    <alkupnimi>(A Suivre) Special Hergé</alkupnimi> 
+    <julk>Medusa - 1989</julk>
+</book>
+
+<book>
+	<tekija>-</tekija> 
+	<nimike>Asterix ja yst&auml;v&auml;t</nimike>
+    <alkupnimi>Asterix et ses Amis</alkupnimi> 
+    <julk>Egmont - 2007</julk>
+</book>
+
+</catalog>

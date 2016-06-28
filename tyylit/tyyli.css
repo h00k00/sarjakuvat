@@ -1,0 +1,252 @@
+.teksti {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 10pt;
+}
+
+.pieniteksti {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+}
+
+.oikealistateksti {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 12pt;
+}
+
+.kursiivi {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 12pt;
+font-style: italic;
+}
+
+.tekija {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 12pt;
+font-weight: bold;
+margin-bottom: 1px;
+margin-top:12px;
+}
+
+.nimike {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 10pt;
+}
+
+.alkupnimi {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 10pt;
+font-weight:bold;
+}
+
+.julk {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 10pt;
+font-style: Italic;
+}
+
+.navi {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+color: #ccc;
+background-color: #708090;
+padding: 3px;
+margin-bottom: 25px;
+}
+
+.navi ul {
+margin-left: 0;
+padding-left: 0;
+display: inline;
+border: none;
+} 
+
+.navi ul li {
+margin-left: 0;
+padding-left: 2px;
+border: none;
+list-style: none;
+display: inline;
+}
+
+
+#bread {
+color: #ccc;
+background-color: #708090;
+padding: 3px;
+margin-bottom: 25px;
+}
+
+#bread ul {
+margin-left: 0;
+padding-left: 0;
+display: inline;
+border: none;
+} 
+
+#bread ul li {
+margin-left: 0;
+padding-left: 2px;
+border: none;
+list-style: none;
+display: inline;
+}
+
+#bread2 {
+color: #ccc;
+background-color: #708090;
+padding: 3px;
+margin-bottom: 25px;
+}
+
+#bread2 ul {
+margin-left: 0;
+padding-left: 0;
+display: inline;
+border: none;
+} 
+
+#bread2 ul li {
+margin-left: 0;
+padding-left: 2px;
+border: none;
+list-style: none;
+display: inline;
+}
+
+@media all and (min-width: 650px){
+	
+
+	.type-home .ui-content {
+		margin-top: 5px;
+	}
+	.ui-mobile #jqm-homeheader {
+		max-width: 340px;
+	}
+	.ui-mobile .jqm-themeswitcher {
+		float: right;
+	}
+	p.intro {
+		margin: 2em 0;
+	}
+	.type-home .ui-content,
+	.type-interior .ui-content {
+		padding: 0;
+		background: url(../images/px-ccc.gif) 50% 0 repeat-y;
+	}
+	.type-interior .ui-content {
+		background-position: 45%;
+		overflow: hidden;
+	}
+	.content-secondary {
+		text-align: left;
+		float: left;
+		width: 45%;
+		background: none;
+	}
+	.content-secondary,
+	.type-interior .content-secondary {
+		margin: 30px 0 20px 2%;
+		padding: 20px 4% 0 0;
+			background: none;
+					border-top: none;
+	}
+	.type-index .content-secondary {
+		padding: 0;
+	}
+	.content-secondary .ui-collapsible {
+		margin: 0;
+		padding: 0;
+	}
+	.content-secondary .ui-collapsible-content {
+		border: none;
+	}
+	.type-index .content-secondary .ui-listview {
+		margin: 0;
+	}
+
+	.ui-mobile #jqm-homeheader {
+		padding: 0;
+	}
+	.content-primary {
+		width: 45%;
+		float: right;
+		margin-top: 30px;
+		margin-right: 1%;
+		padding-right: 1%;
+	}
+	.content-primary ul:first-child {
+		margin-top: 0;
+	}
+	.content-secondary h2 {
+		position: absolute;
+		left: -9999px;
+	}
+	.type-interior .content-primary {
+		padding: 1.5em 6% 3em 0;
+		margin: 0;
+	}
+	/* fix up the collapsibles - expanded on desktop */
+	.content-secondary .ui-collapsible-heading {
+		display: none;
+	}
+	.content-secondary .ui-collapsible-contain {
+		margin:0;
+	}
+	.content-secondary .ui-collapsible-content {
+		display: block;
+		margin: 0;
+		padding: 0;
+	}
+	.type-interior  .content-secondary .ui-li-divider {
+		padding-top: 1em;
+		padding-bottom: 1em;
+	}
+	.type-interior .content-secondary {
+		margin: 0;
+		padding: 0;
+	}
+	
+}
+@media all and (min-width: 750px){
+	.type-home .ui-content,
+	.type-interior .ui-content {
+		background-position: 39%;
+	}
+	.content-secondary {
+		width: 34%;
+	}
+	.content-primary {
+		width: 56%;
+		padding-right: 1%;
+	}	
+	.type-interior .ui-content {
+		background-position: 34%;
+	}
+}
+
+@media all and (min-width: 1200px){
+	.type-home .ui-content{
+		background-position: 38.5%;
+	}
+	.type-interior .ui-content {
+		background-position: 30%;
+	}
+	.content-secondary {
+		width: 30%;
+		padding-right:6%;
+		margin: 30px 0 20px 5%;
+	}
+	.type-interior .content-secondary {
+		margin: 0;
+		padding: 0;
+	}
+	.content-primary {
+		width: 50%;
+		margin-right: 5%;
+		padding-right: 3%;
+	}
+	.type-interior .content-primary {
+		width: 60%;
+	}
+}
+
+

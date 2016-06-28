@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<book>
+		<tekija>Emerson, Hunt</tekija>
+		<nimike>Max Zillion ja Alto Ego</nimike>
+		<julk>Alpha 1992/01</julk>
+	</book>
+	<book>
+		<tekija>Koskela, Ilpo</tekija>
+		<nimike>Backlook ? kaksi kaupunkia</nimike>
+		<julk>Alpha 1992/01</julk>
+	</book>
+	<book>
+		<tekija>Koskela, Ilpo</tekija>
+		<nimike>Kultakuume</nimike>
+		<julk>Alpha 1992/02</julk>
+	</book>
+	<book>
+		<tekija>Kähkönen, Timo &amp; Varpio, Timo</tekija>
+		<nimike>Valo yössä</nimike>
+		<julk>Alpha 1992/01</julk>
+	</book>
+	<book>
+		<tekija>Lusa, Satu</tekija>
+		<nimike>Finnish Success Story</nimike>
+		<julk>Alpha 1992/02</julk>
+	</book>
+	<book>
+		<tekija>Otsamo, Pentti</tekija>
+		<nimike>Mies tänä keväänä</nimike>
+		<julk>Alpha 1992/01</julk>
+	</book>
+	<book>
+		<tekija>Paakkanen, Heikki</tekija>
+		<nimike>Rajatila</nimike>
+		<julk>Alpha 1992/02</julk>
+	</book>
+	<book>
+		<tekija>Parhamaa, Erkki</tekija>
+		<nimike>Reunalla...</nimike>
+		<julk>Alpha 1992/02</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguelanxo</tekija>
+		<nimike>Kymmenen päivää Afrikassa</nimike>
+		<julk>Alpha 1992/01</julk>
+	</book>
+	<book>
+		<tekija>Prado, Miguelanxo</tekija>
+		<nimike>Rouvan alusvaatteet</nimike>
+		<julk>Alpha 1992/01</julk>
+	</book>
+	<book>
+		<tekija>Rytöhonka, Tapani</tekija>
+		<nimike>Oodi Kotkankalliolle</nimike>
+		<julk>Alpha 1992/02</julk>
+	</book>
+	<book>
+		<tekija>Tolppanen, Petri &amp; Mäkinen, Reima</tekija>
+		<nimike>Vuodet</nimike>
+		<julk>Alpha 1992/02</julk>
+	</book>
+	<book>
+		<tekija>Valkeapää, J-P &amp; Neugodov, Konsta</tekija>
+		<nimike>Me</nimike>
+		<julk>Alpha 1992/02</julk>
+	</book>
+</catalog>

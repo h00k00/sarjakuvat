@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html ng-app="comics">
+
+<head>       
+<title>Luettelot</title>       
+
+<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="tyylit/main.css" />
+
+<meta http-equiv="Keywords" content="Sarjakuvat, Comics, Ruutu, Non Stop, Zoom, Heavy Metal, Epix, Pox, Cheval Noir, Ken Parker, Tung Metal" />
+<meta http-equiv="Author" content="Harri" />
+<meta name="description" content="Luetteloa hyllystäni löytyvistä sarjakuvista. Index of my comics." />
+<meta name="keywords" content="Sarjakuvat, Comics, Ruutu, Non Stop, Zoom, Heavy Metal, Epix, Pox, Cheval Noir, Ken Parker, Tung Metal" />
+<meta name="author" content="Harri" />
+
+<meta name="viewport" content="user-scalable=no, width=device-width" />
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>	<script type="text/javascript" src="scripts/app.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular-animate.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular-aria.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.0.5/angular-material.min.js"></script>
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/angular_material/1.0.5/angular-material.min.css">
+    
+</head>
+
+<body ng-controller="MainController as mainCtrl">
+	<div ng-cloak="" class="tabsdemoDynamicHeight">
+	  <md-content>
+		<md-tabs md-dynamic-height="" md-border-bottom="">
+		  <md-tab label="Albumit">
+			<md-content class="md-padding">
+			  <h1 class="md-display-2">Albumit</h1>
+				<ul class="valikko">
+					<li><a href="albumit/albumit1.html">Sekalaiset A-H</a></li> 
+					<li><a href="albumit/albumit2.html">Sekalaiset I-M</a></li>
+					<li><a href="albumit/albumit3.html">Sekalaiset N-Ö</a></li>
+					<li><a href="albumit/albumit4.html">Sekalaiset (useita tekijöitä)</a></li>
+				</ul>
+			</md-content>
+		  </md-tab>
+		  <md-tab label="Disney">
+			<md-content class="md-padding">
+			  <h1 class="md-display-2">Disney</h1>
+				<ul class="valikko">
+					<li><a href="albumit/aap.html">Aku Ankan parhaat</a></li>
+					<li><a href="albumit/isodisney.html">Disneyn jättikirjat</a></li>
+					<li><a href="albumit/aavuosikerrat.html">Aku Ankan vuosikerrat</a></li>
+					<li><a href="albumit/cbl.html">Carl Barks Library</a></li>
+					<li><a href="albumit/donrosa.html">Don Rosa</a></li>
+					<li><a href="albumit/barks.html">Carl Barks</a></li>
+					<li><a href="tekijat/gottfredson.html">Floyd Gottfredson</a></li>
+				</ul>
+			</md-content>
+		  </md-tab>
+		  <md-tab label="Lehdet">
+			<md-content class="md-padding">
+			  <h1 class="md-display-2">Lehdet</h1>
+				<ul class="valikko">
+					<li><a href="#lehti" ng-click="mainCtrl.toggleMenu(); mainCtrl.getMagazine('lehdet/2000plus.json')">2000+</a></li>
+					<li><a href="" ng-click="mainCtrl.toggleMenu(); mainCtrl.getMagazine('lehdet/alpha.json')">Alpha</a></li>
+					<li><a href="" ng-click="mainCtrl.toggleMenu(); mainCtrl.getMagazine('lehdet/casablanca.json')">Casablanca</a></li>
+					<li><a href="" ng-click="mainCtrl.toggleMenu(); mainCtrl.getMagazine('lehdet/chevalnoir.json')">Cheval Noir</a></li>
+					<li><a href="" ng-click="mainCtrl.toggleMenu(); mainCtrl.getMagazine('lehdet/comet.json')">Comet</a></li>
+					<li><a href="" ng-click="mainCtrl.toggleMenu(); mainCtrl.getMagazine('lehdet/drawnandquarterly.json')">Drawn and Quarterly</a></li>
+					<li><a href="" ng-click="mainCtrl.toggleMenu(); mainCtrl.getMagazine('lehdet/epix.json')">Epix</a></li>
+					<li><a href="" ng-click="mainCtrl.toggleMenu(); mainCtrl.getMagazine('lehdet/pox.json')">Pox</a></li>
+					<li><a href="lehdet/heavymetal.html">Heavy Metal</a></li>
+					<li><a href="lehdet/jysays.html">Jysäys</a></li>
+					<li><a href="lehdet/kylmametalli.html">Kylmä Metalli</a></li>
+					<li><a href="lehdet/laaki.html">Laaki</a></li>
+					<li><a href="lehdet/pox.html">Pox</a></li>
+					<li><a href="lehdet/poxspecial.html">Pox Special</a></li>
+					<li><a href="lehdet/pulserandemetal.html">Pulserande Metal</a></li>
+					<li><a href="lehdet/raw.html">Raw</a></li>
+					<li><a href="lehdet/ruutunonstop.html">Ruutu & Non Stop</a></li>
+					<li><a href="lehdet/tapiiri.html">Tapiiri</a></li>
+					<li><a href="lehdet/tungmetal.html">Tung Metall</a></li>
+					<li><a href="lehdet/zoom.html">Zoom</a></li>
+				</ul>
+				<div id="lehti" class="content" ng-show="!menu">
+					<h1>{{lehdennimi}}</h1>
+					<ul>
+						<li ng-repeat="tekija in tarinalista">
+							<br/><b>{{tekija.tekija}}:</b>
+							<ul>
+							<li ng-repeat="tarina in tekija.tarinat">
+								 {{tarina.nimike}} <i>({{tarina.julk}}</i>)
+							</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</md-content>
+		  </md-tab>
+		  <md-tab label="Sarjat">
+			<md-content class="md-padding">
+				<h1 class="md-display-2">Sarjat</h1>
+				<ul class="valikko">
+					<li><a href="sarjat/ahmedahne.html">Ahmed Ahne - Iznogoud</a></li>
+					<li><a href="sarjat/alix.html">Alix</a></li>
+					<li><a href="sarjat/asterix.html">Asterix</a></li>
+					<li><a href="sarjat/barelli.html">Barelli</a></li>
+					<li><a href="sarjat/bernardprince.html">Bernard Prince</a></li>
+					<li><a href="sarjat/blakejamortimer.html">Blake ja Mortimer</a></li>
+					<li><a href="sarjat/blueberry.html">Blueberry</a></li>
+					<li><a href="sarjat/boismaury.html">Bois-Maury</a></li>
+					<li><a href="sarjat/bouncer.html">Bouncer</a></li>
+					<li><a href="sarjat/brucejhawker.html">Bruce J. Hawker</a></li>
+					<li><a href="sarjat/brunobrazil.html">Bruno Brazil</a></li>
+					<li><a href="sarjat/comanche.html">Comanche</a></li>
+					<li><a href="sarjat/frank.html">Frank - Lefranc</a></li>
+					<li><a href="sarjat/haikaralaivue.html">Ilmojen haukat/Haikaralaivue - Tanguy et Laverdure</a></li>
+					<li><a href="sarjat/matkamiehet.html">Hämärän matkamiehet - Les Compagnons du Crepuscule</a></li>
+					<li><a href="sarjat/jeffhawke.html">Jeff Hawke</a></li>
+					<li><a href="sarjat/jeremiah.html">Jeremiah</a></li>
+					<li><a href="sarjat/cutlass.html">Jim Cutlass</a></li>
+					<li><a href="sarjat/johannes.html">Johannes ja Pirkale - Johan et Pirlouit</a></li>
+					<li><a href="sarjat/joonatan.html">Joonatan Pistooli - Jehan Pistolet</a></li>
+					<li><a href="sarjat/kaspar.html">Kaspar Keskiyö</a></li>
+					<li><a href="sarjat/kenparker.html">Ken Parker</a></li>
+					<li><a href="sarjat/largowinch.html">Largo Winch</a></li>
+					<li><a href="sarjat/luckyluke.html">Lucky Luke</a></li>
+					<li><a href="sarjat/natasha.html">Natasha</a></li>
+					<li><a href="sarjat/pielinen.html">Niilo Pielinen - Gaston</a></li>
+					<li><a href="sarjat/peterpan.html">Peter Pan</a></li>
+					<li><a href="sarjat/piko.html">Piko ja Fantasio - Spirou</a></li>
+					<li><a href="sarjat/resande.html">Resande med vinden - Les Passagers du Vent</a></li>
+					<li><a href="sarjat/vargas.html">Roco Vargas</a></li>
+					<li><a href="sarjat/sammyday.html">Sammy Day</a></li>
+					<li><a href="sarjat/simon.html">Simon</a></li>
+					<li><a href="sarjat/sinitakit.html">Sinitakit - Les Tuniques Bleues</a></li>
+					<li><a href="sarjat/sillage.html">Sillage</a></li>
+					<li><a href="sarjat/spirit.html">Spirit</a></li>
+					<li><a href="sarjat/stephan.html">Stephan</a></li>
+					<li><a href="sarjat/superdetectivelibrary.html">Super Detective Library</a></li>
+					<li><a href="sarjat/texspecial.html">Tex Willer</a></li>
+					<li><a href="sarjat/thorgal.html">Thorgal</a></li>
+					<li><a href="sarjat/titeuf.html">Titeuf</a></li>
+					<li><a href="sarjat/umpahpah.html">Umpah-pah</a></li>
+					<li><a href="sarjat/valerian.html">Valerian</a></li>
+					<li><a href="sarjat/xiii.html">XIII</a></li>
+				</ul>
+			</md-content>
+		  </md-tab>
+		  <md-tab label="Tekijät">
+			<md-content class="md-padding">
+				<h1 class="md-display-2">Tekijät</h1>
+				<ul class="valikko">
+					<li><a href="tekijat/altuna.html">Altuna, Horacio</a></li>
+					<li><a href="tekijat/auclair.html">Auclair, Claude</a></li>
+					<li><a href="tekijat/bagge.html">Bagge, Peter</a></li>
+					<li><a href="tekijat/baru.html">Baru</a></li>
+					<li><a href="tekijat/berck.html">Berck</a></li>
+					<li><a href="tekijat/bilal.html">Bilal, Enki</a></li>
+					<li><a href="tekijat/bourgeon.html">Bourgeon, Francois</a></li>
+					<li><a href="tekijat/cauvin.html">Cauvin, Raoul</a></li>
+					<li><a href="tekijat/chaland.html">Chaland, Yves</a></li>
+					<li><a href="tekijat/charlier.html">Charlier, Jean-Michel</a> </li>
+					<li><a href="tekijat/christin.html">Christin, Pierre</a></li>
+					<li><a href="tekijat/clowes.html">Clowes, Daniel</a></li>
+					<li><a href="tekijat/dupuyberberian.html">Dupuy & Berberian</a></li>
+					<li><a href="tekijat/eisner.html">Eisner, Will</a></li>
+					<li><a href="tekijat/franquin.html">Franquin, Andre</a></li>
+					<li><a href="tekijat/fred.html">Fred</a></li>
+					<li><a href="tekijat/moebius.html">Giraud, Jean/Moebius</a></li>
+					<li><a href="tekijat/goscinny.html">Goscinny, René</a></li>
+					<li><a href="tekijat/hermann.html">Hermann</a></li>
+					<li><a href="tekijat/hernandez.html">Hernandez Gilbert, Jaime & Mario</a></li>
+					<li><a href="tekijat/lauzier.html">Lauzier</a></li>
+					<li><a href="tekijat/mezieres.html">Mezieres, Jean-Claude</a></li>
+					<li><a href="tekijat/moebius.html">Moebius/Giraud, Jean</a> </li>
+					<li><a href="tekijat/morris.html">Morris</a></li>
+					<li><a href="tekijat/pratt.html">Pratt, Hugo</a></li>
+					<li><a href="tekijat/sampayo.html">Sampayo, Carlos</a></li>
+					<li><a href="tekijat/schuiten.html">Schuiten</a></li>
+					<li><a href="tekijat/sokal.html">Sokal, Benoit</a></li>
+					<li><a href="tekijat/stanislas.html">Stanislas</a></li>
+					<li><a href="tekijat/tabary.html">Tabary</a></li>
+					<li><a href="tekijat/tardi.html">Tardi</a></li>
+					<li><a href="tekijat/torres.html">Torres, Daniel</a></li>
+					<li><a href="tekijat/lewis_trondheim.html">Trondheim, Lewis</a></li>
+					<li><a href="tekijat/uderzo.html">Uderzo, Albert</a></li>
+					<li><a href="tekijat/vanhamme.html">Van Hamme, Jean</a></li>
+					<li><a href="tekijat/vance.html">Vance, William</a></li>
+					<li><a href="tekijat/voss.html">Voss, Alain</a></li>
+				</ul>
+			</md-content>
+		  </md-tab>
+		</md-tabs>
+	  </md-content>
+	</div>
+		
+	
+</body>
+</html>

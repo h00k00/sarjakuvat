@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<book>
+		<tekija>Bretecher</tekija>
+		<nimike>Lyhyitä tarinoita</nimike>
+		<julk>Comet 1985/1, 2</julk>
+	</book>
+	<book>
+		<tekija>Copi</tekija>
+		<nimike>Mormors födelsedag</nimike>
+		<julk>Comet 1985/1</julk>
+	</book>
+	<book>
+		<tekija>Copi</tekija>
+		<nimike>Skolan</nimike>
+		<julk>Comet 1985/2</julk>
+	</book>
+	<book>
+		<tekija>Copi</tekija>
+		<nimike>Maktspelet</nimike>
+		<julk>Comet 1985/3</julk>
+	</book>
+	<book>
+		<tekija>Gohs, Rolf</tekija>
+		<nimike>Fågelön</nimike>
+		<julk>Comet 1985/3</julk>
+	</book>
+	<book>
+		<tekija>Gohs, Rolf &amp; Sparring, Peter</tekija>
+		<nimike>Blodsmak</nimike>
+		<julk>Comet 1985/1</julk>
+	</book>
+	<book>
+		<tekija>Hermann</tekija>
+		<nimike>Tornen på Bois-Maury (Babette)</nimike>
+		<julk>Comet 1985/1</julk>
+	</book>
+	<book>
+		<tekija>Lelong</tekija>
+		<nimike>Carmen: Chips &amp; jordnötter</nimike>
+		<julk>Comet 1985/1</julk>
+	</book>
+	<book>
+		<tekija>Lelong</tekija>
+		<nimike>Carmen: Den trasiga korgen</nimike>
+		<julk>Comet 1985/2</julk>
+	</book>
+	<book>
+		<tekija>Lelong</tekija>
+		<nimike>Carmen: Centert</nimike>
+		<julk>Comet 1985/3</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>HP och Giuseppe Bergman (kesken)</nimike>
+		<julk>Comet 1985/1-3</julk>
+	</book>
+	<book>
+		<tekija>Manara, Milo</tekija>
+		<nimike>Utan titel</nimike>
+		<julk>Comet 1985/3</julk>
+	</book>
+	<book>
+		<tekija>Pirinen, Joakim</tekija>
+		<nimike>Ute i skärgården</nimike>
+		<julk>Comet 1985/2</julk>
+	</book>
+	<book>
+		<tekija>Pirinen, Joakim</tekija>
+		<nimike>Dom små rackarna</nimike>
+		<julk>Comet 1985/2, 3</julk>
+	</book>
+	<book>
+		<tekija>Schuiten &amp; Peeters</tekija>
+		<nimike>Murarna i Samaris</nimike>
+		<julk>Comet 1985/2</julk>
+	</book>
+	<book>
+		<tekija>Wolinski</tekija>
+		<nimike>Lyhyitä tarinoita</nimike>
+		<julk>Comet 1985/1, 2, 3</julk>
+	</book>
+</catalog>
