@@ -29,13 +29,26 @@
 		<md-tabs md-dynamic-height="" md-border-bottom="">
 		  <md-tab label="Albumit" ng-click="mainCtrl.showMenu()">
 			<md-content class="md-padding">
-			  <h1 class="md-display-2">Albumit</h1>
-				<ul class="valikko">
-					<li><a href="albumit/albumit1.html">Sekalaiset A-H</a></li>
-					<li><a href="albumit/albumit2.html">Sekalaiset I-M</a></li>
+			  <h1 class="md-display-2" ng-show="showMenu">Albumit</h1>
+				<ul class="valikko" ng-show="showMenu">
+					<li ng-click="mainCtrl.getMagazine('albumit/albumit1.json')">Sekalaiset A-H</li>
+					<li ng-click="mainCtrl.getMagazine('albumit/albumit2.json')">Sekalaiset I-M</li>
 					<li><a href="albumit/albumit3.html">Sekalaiset N-Ö</a></li>
 					<li><a href="albumit/albumit4.html">Sekalaiset (useita tekijöitä)</a></li>
 				</ul>
+				<div class="content" ng-show="showList">
+					<h1>{{lehdennimi}}</h1>
+					<ul>
+						<li ng-repeat="tekija in tarinalista">
+							<br/><b>{{tekija.tekija}}:</b>
+							<ul>
+							<li ng-repeat="tarina in tekija.tarinat">
+								 {{tarina.nimike}} {{tarina.alkupnimi}} <i>({{tarina.julk}})</i>
+							</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
 			</md-content>
 		  </md-tab>
 		  <md-tab label="Disney" ng-click="mainCtrl.showMenu()">
@@ -77,7 +90,7 @@
 					<li ng-click="mainCtrl.getMagazine('lehdet/tungmetal.json')">Tung Metall</li>
 					<li ng-click="mainCtrl.getMagazine('lehdet/zoom.json')">Zoom</li>
 				</ul>
-				<div class="content" id="lehti" ng-show="showList">
+				<div class="content" ng-show="showList">
 					<h1>{{lehdennimi}}</h1>
 					<ul>
 						<li ng-repeat="tekija in tarinalista">
@@ -94,11 +107,11 @@
 		  </md-tab>
 		  <md-tab label="Sarjat" ng-click="mainCtrl.showMenu()">
 			<md-content class="md-padding">
-				<h1 class="md-display-2">Sarjat</h1>
-				<ul class="valikko">
-					<li><a href="sarjat/ahmedahne.html">Ahmed Ahne - Iznogoud</a></li>
-					<li><a href="sarjat/alix.html">Alix</a></li>
-					<li><a href="sarjat/asterix.html">Asterix</a></li>
+				<h1 class="md-display-2" ng-show="showMenu">Sarjat</h1>
+				<ul class="valikko" ng-show="showMenu">
+					<li ng-click="mainCtrl.getMagazine('sarjat/ahmedahne.json')">Ahmed Ahne - Iznogoud</li>
+					<li ng-click="mainCtrl.getMagazine('sarjat/alix.json')">Alix</li>
+					<li ng-click="mainCtrl.getMagazine('sarjat/asterix.json')">Asterix</li>
 					<li><a href="sarjat/barelli.html">Barelli</a></li>
 					<li><a href="sarjat/bernardprince.html">Bernard Prince</a></li>
 					<li><a href="sarjat/blakejamortimer.html">Blake ja Mortimer</a></li>
@@ -140,6 +153,22 @@
 					<li><a href="sarjat/valerian.html">Valerian</a></li>
 					<li><a href="sarjat/xiii.html">XIII</a></li>
 				</ul>
+				<div class="content" ng-show="showList">
+					<h1>{{lehdennimi}}</h1>
+					<ul>
+						<li ng-repeat="tekija in tarinalista">
+							<br/><b>{{tekija.tekija}}:</b>
+							<ul>
+							<li ng-repeat="tarina in tekija.tarinat">
+								 {{tarina.numero}}
+								 {{tarina.alkupnimi}}
+								 {{tarina.nimike}}
+								 <i>({{tarina.julk}})</i>
+							</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
 			</md-content>
 		  </md-tab>
 		  <md-tab label="Tekijät" ng-click="mainCtrl.showMenu()">
