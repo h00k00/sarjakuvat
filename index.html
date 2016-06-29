@@ -33,8 +33,8 @@
 				<ul class="valikko" ng-show="showMenu">
 					<li ng-click="mainCtrl.getMagazine('albumit/albumit1.json')">Sekalaiset A-H</li>
 					<li ng-click="mainCtrl.getMagazine('albumit/albumit2.json')">Sekalaiset I-M</li>
-					<li><a href="albumit/albumit3.html">Sekalaiset N-Ö</a></li>
-					<li><a href="albumit/albumit4.html">Sekalaiset (useita tekijöitä)</a></li>
+					<li ng-click="mainCtrl.getMagazine('albumit/albumit3.json')">Sekalaiset N-Ö</li>
+					<li ng-click="mainCtrl.getMagazine('albumit/albumit4.json')">Sekalaiset (useita tekijöitä)</li>
 				</ul>
 				<div class="content" ng-show="showList">
 					<h1>{{lehdennimi}}</h1>
@@ -49,20 +49,6 @@
 						</li>
 					</ul>
 				</div>
-			</md-content>
-		  </md-tab>
-		  <md-tab label="Disney" ng-click="mainCtrl.showMenu()">
-			<md-content class="md-padding">
-			  <h1 class="md-display-2">Disney</h1>
-				<ul class="valikko">
-					<li><a href="albumit/aap.html">Aku Ankan parhaat</a></li>
-					<li><a href="albumit/isodisney.html">Disneyn jättikirjat</a></li>
-					<li><a href="albumit/aavuosikerrat.html">Aku Ankan vuosikerrat</a></li>
-					<li><a href="albumit/cbl.html">Carl Barks Library</a></li>
-					<li><a href="albumit/donrosa.html">Don Rosa</a></li>
-					<li><a href="albumit/barks.html">Carl Barks</a></li>
-					<li><a href="tekijat/gottfredson.html">Floyd Gottfredson</a></li>
-				</ul>
 			</md-content>
 		  </md-tab>
 		  <md-tab label="Lehdet" ng-click="mainCtrl.showMenu()">
