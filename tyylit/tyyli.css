@@ -1,3 +1,7 @@
+
+
+
+
 .teksti {
 font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
 font-size: 10pt;
@@ -27,23 +31,6 @@ margin-bottom: 1px;
 margin-top:12px;
 }
 
-.nimike {
-font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-font-size: 10pt;
-}
-
-.alkupnimi {
-font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-font-size: 10pt;
-font-weight:bold;
-}
-
-.julk {
-font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-font-size: 10pt;
-font-style: Italic;
-}
-
 .navi {
 font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
 color: #ccc;
@@ -57,7 +44,7 @@ margin-left: 0;
 padding-left: 0;
 display: inline;
 border: none;
-} 
+}
 
 .navi ul li {
 margin-left: 0;
@@ -80,7 +67,7 @@ margin-left: 0;
 padding-left: 0;
 display: inline;
 border: none;
-} 
+}
 
 #bread ul li {
 margin-left: 0;
@@ -102,7 +89,7 @@ margin-left: 0;
 padding-left: 0;
 display: inline;
 border: none;
-} 
+}
 
 #bread2 ul li {
 margin-left: 0;
@@ -217,7 +204,7 @@ display: inline;
 	.content-primary {
 		width: 56%;
 		padding-right: 1%;
-	}	
+	}
 	.type-interior .ui-content {
 		background-position: 34%;
 	}
