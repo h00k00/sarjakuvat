@@ -24,9 +24,8 @@
 </head>
 
 <body ng-controller="MainController as mainCtrl">
-	<div ng-cloak="" class="tabsdemoDynamicHeight">
-	  <md-content>
-		<md-tabs md-dynamic-height="" md-border-bottom="">
+	<div flex class="tabs-wrapper">
+		<md-tabs class="full-size" md-border-bottom>
 		  <md-tab label="Albumit" ng-click="mainCtrl.showMenu()">
 			<md-content class="md-padding">
 			  <h1 class="md-display-2" ng-show="showMenu">Albumit</h1>
@@ -137,7 +136,7 @@
 					<li ng-click="mainCtrl.getMagazine('sarjat/titeuf.json')">Titeuf</li>
 					<li ng-click="mainCtrl.getMagazine('sarjat/umpahpah.json')">Umpah-pah</li>
 					<li ng-click="mainCtrl.getMagazine('sarjat/valerian.json')">Valerian</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/xiii.json')">XIII</a></li>
+					<li ng-click="mainCtrl.getMagazine('sarjat/xiii.json')">XIII</li>
 				</ul>
 				<div class="content" ng-show="showList">
 					<h1>{{lehdennimi}}</h1>
@@ -147,10 +146,11 @@
 							<ul>
 							<li ng-repeat="tarina in tekija.tarinat" class="list-item">
 								<div class="alkupnimi">
-								    {{tarina.numero}}: {{tarina.alkupnimi}}
+								    <span class="numero">{{tarina.numero}} </span>
+								    <span>{{tarina.alkupnimi}}</span>
 								</div>
 								 <span class="nimike">{{tarina.nimike}}</span>
-								 <span class="julk">({{tarina.julk}})</span>
+								 <span class="julk">{{tarina.julk}}</span>
 							</li>
 							</ul>
 						</li>
@@ -203,7 +203,6 @@
 			</md-content>
 		  </md-tab>
 		</md-tabs>
-	  </md-content>
 	</div>
 		
 	

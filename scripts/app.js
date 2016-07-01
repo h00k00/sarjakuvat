@@ -7,7 +7,6 @@ app.controller('MainController', function ($scope, $http) {
 
     this.getMagazine = function (filename) {
         $http.get(filename).success(function (data) {
-            console.log("getdata");
             console.log(data);
             $scope.lehdennimi = data.lehdennimi;
             $scope.tarinalista = data.tarinalista;
@@ -16,11 +15,12 @@ app.controller('MainController', function ($scope, $http) {
         }).error(function (error) {
             console.log("Error");
         });
+        console.log($scope.tarinalista);
     };
     
     this.showMenu = function () {
         $scope.showMenu = true;
         $scope.showList = false;
-
     };
+
 });
