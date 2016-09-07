@@ -15,196 +15,199 @@
 	<meta name="author" content="Harri" />
 
 	<meta name="viewport" content="user-scalable=no, width=device-width" />
-	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>	<script type="text/javascript" src="scripts/app.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>	<script type="text/javascript" src="scripts/app.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular-route.min.js"></script>	<script type="text/javascript" src="scripts/app.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular-animate.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular-aria.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.0.5/angular-material.min.js"></script>
 	<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/angular_material/1.0.5/angular-material.min.css">
- 
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.13/angular-ui-router.min.js"></script>
+
 </head>
 
-<body ng-controller="MainController as mainCtrl">
-	<div flex class="tabs-wrapper">
-		<md-tabs class="full-size" md-border-bottom>
-		  <md-tab label="Albumit" ng-click="mainCtrl.showMenu()">
-			<md-content class="md-padding">
-			  <h1 class="md-display-2" ng-show="showMenu">Albumit</h1>
-				<ul class="valikko" ng-show="showMenu">
-					<li ng-click="mainCtrl.getMagazine('albumit/albumit1.json')">Sekalaiset A-H</li>
-					<li ng-click="mainCtrl.getMagazine('albumit/albumit2.json')">Sekalaiset I-M</li>
-					<li ng-click="mainCtrl.getMagazine('albumit/albumit3.json')">Sekalaiset N-Ö</li>
-					<li ng-click="mainCtrl.getMagazine('albumit/albumit4.json')">Sekalaiset (useita tekijöitä)</li>
-				</ul>
-				<div class="content" ng-show="showList">
-					<h1>{{lehdennimi}}</h1>
-					<ul>
-						<li ng-repeat="tekija in tarinalista">
-							<br/><b>{{tekija.tekija}}:</b>
-							<ul>
-							<li ng-repeat="tarina in tekija.tarinat">
-								 {{tarina.nimike}} {{tarina.alkupnimi}} <i>({{tarina.julk}})</i>
-							</li>
-							</ul>
-						</li>
-					</ul>
-				</div>
-			</md-content>
-		  </md-tab>
-		  <md-tab label="Lehdet" ng-click="mainCtrl.showMenu()">
-			<md-content class="md-padding">
-			  <h1 class="md-display-2" ng-show="showMenu">Lehdet</h1>
-				<ul class="valikko" ng-show="showMenu">
-					<li ng-click="mainCtrl.getMagazine('lehdet/2000plus.json')">2000+</li>
-					<li ng-href="" ng-click="mainCtrl.getMagazine('lehdet/alpha.json')">Alpha</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/casablanca.json')">Casablanca</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/chevalnoir.json')">Cheval Noir</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/comet.json')">Comet</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/drawnandquarterly.json')">Drawn and Quarterly</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/epix.json')">Epix</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/pox.json')">Pox</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/heavymetal.json')">Heavy Metal</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/jysays.json')">Jysäys</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/kylmametalli.json')">Kylmä Metalli</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/laaki.json')">Laaki</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/poxspecial.json')">Pox Special</li>
-					<li><a href="lehdet/poxspecial.html">Pox Special</a></li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/kylmametalli.json')">Pulserande Metal</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/raw.json')">Raw</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/ruutunonstop.json')">Ruutu & Non Stop</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/tapiiri.json')">Tapiiri</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/tungmetal.json')">Tung Metall</li>
-					<li ng-click="mainCtrl.getMagazine('lehdet/zoom.json')">Zoom</li>
-				</ul>
-				<div class="content" ng-show="showList">
-					<h1>{{lehdennimi}}</h1>
-					<ul>
-						<li ng-repeat="tekija in tarinalista">
-							<br/><b>{{tekija.tekija}}:</b>
-							<ul>
-							<li ng-repeat="tarina in tekija.tarinat">
-								 {{tarina.nimike}} {{tarina.alkupnimi}} <i>({{tarina.julk}})</i>
-							</li>
-							</ul>
-						</li>
-					</ul>
-				</div>
-			</md-content>
-		  </md-tab>
-		  <md-tab label="Sarjat" ng-click="mainCtrl.showMenu()">
-			<md-content class="md-padding">
-				<h1 class="md-display-2" ng-show="showMenu">Sarjat</h1>
-				<ul class="valikko" ng-show="showMenu">
-					<li ng-click="mainCtrl.getMagazine('sarjat/ahmedahne.json')">Ahmed Ahne - Iznogoud</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/alix.json')">Alix</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/asterix.json')">Asterix</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/barelli.json')">Barelli</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/bernardprince.json')">Bernard Prince</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/blakejamortimer.json')">Blake ja Mortimer</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/blueberry.json')">Blueberry</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/boismaury.json')">Bois-Maury</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/bouncer.json')">Bouncer</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/brucejhawker.json')">Bruce J. Hawker</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/brunobrazil.json')">Bruno Brazil</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/comanche.json')">Comanche</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/frank.json')">Frank - Lefranc</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/haikaralaivue.json')">Ilmojen haukat/Haikaralaivue - Tanguy et Laverdure</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/matkamiehet.json')">Hämärän matkamiehet - Les Compagnons du Crepuscule</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/jeffhawke.json')">Jeff Hawke</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/jeremiah.json')">Jeremiah</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/cutlass.json')">Jim Cutlass</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/johannes.json')">Johannes ja Pirkale - Johan et Pirlouit</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/joonatan.json')">Joonatan Pistooli - Jehan Pistolet</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/kaspar.json')">Kaspar Keskiyö</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/kenparker.json')">Ken Parker</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/largowinch.json')">Largo Winch</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/luckyluke.json')">Lucky Luke</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/natasha.json')">Natasha</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/pielinen.json')">Niilo Pielinen - Gaston</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/peterpan.json')">Peter Pan</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/piko.json')">Piko ja Fantasio - Spirou</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/resande.json')">Resande med vinden - Les Passagers du Vent</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/vargas.json')">Roco Vargas</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/sammyday.json')">Sammy Day</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/simon.json')">Simon</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/sinitakit.json')">Sinitakit - Les Tuniques Bleues</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/sillage.json')">Sillage</li>
-					<li><a href="sarjat/spirit.html">Spirit</a></li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/stephan.json')">Stephan</li>
-					<li><a href="sarjat/superdetectivelibrary.html">Super Detective Library</a></li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/texspecial.json')">Tex Willer</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/thorgal.json')">Thorgal</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/titeuf.json')">Titeuf</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/umpahpah.json')">Umpah-pah</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/valerian.json')">Valerian</li>
-					<li ng-click="mainCtrl.getMagazine('sarjat/xiii.json')">XIII</li>
-				</ul>
-				<div class="content" ng-show="showList">
-					<h1>{{lehdennimi}}</h1>
-					<ul>
-						<li ng-repeat="tekija in tarinalista">
-							<br/><b>{{tekija.tekija}}:</b>
-							<ul>
-							<li ng-repeat="tarina in tekija.tarinat" class="list-item">
-								<div class="alkupnimi">
-								    <span class="numero">{{tarina.numero}} </span>
-								    <span>{{tarina.alkupnimi}}</span>
-								</div>
-								 <span class="nimike">{{tarina.nimike}}</span>
-								 <span class="julk">{{tarina.julk}}</span>
-							</li>
-							</ul>
-						</li>
-					</ul>
-				</div>
-			</md-content>
-		  </md-tab>
-		  <md-tab label="Tekijät" ng-click="mainCtrl.showMenu()">
-			<md-content class="md-padding">
-				<h1 class="md-display-2">Tekijät</h1>
-				<ul class="valikko">
-					<li><a href="tekijat/altuna.html">Altuna, Horacio</a></li>
-					<li><a href="tekijat/auclair.html">Auclair, Claude</a></li>
-					<li><a href="tekijat/bagge.html">Bagge, Peter</a></li>
-					<li><a href="tekijat/baru.html">Baru</a></li>
-					<li><a href="tekijat/berck.html">Berck</a></li>
-					<li><a href="tekijat/bilal.html">Bilal, Enki</a></li>
-					<li><a href="tekijat/bourgeon.html">Bourgeon, Francois</a></li>
-					<li><a href="tekijat/cauvin.html">Cauvin, Raoul</a></li>
-					<li><a href="tekijat/chaland.html">Chaland, Yves</a></li>
-					<li><a href="tekijat/charlier.html">Charlier, Jean-Michel</a> </li>
-					<li><a href="tekijat/christin.html">Christin, Pierre</a></li>
-					<li><a href="tekijat/clowes.html">Clowes, Daniel</a></li>
-					<li><a href="tekijat/dupuyberberian.html">Dupuy & Berberian</a></li>
-					<li><a href="tekijat/eisner.html">Eisner, Will</a></li>
-					<li><a href="tekijat/franquin.html">Franquin, Andre</a></li>
-					<li><a href="tekijat/fred.html">Fred</a></li>
-					<li><a href="tekijat/moebius.html">Giraud, Jean/Moebius</a></li>
-					<li><a href="tekijat/goscinny.html">Goscinny, René</a></li>
-					<li><a href="tekijat/hermann.html">Hermann</a></li>
-					<li><a href="tekijat/hernandez.html">Hernandez Gilbert, Jaime & Mario</a></li>
-					<li><a href="tekijat/lauzier.html">Lauzier</a></li>
-					<li><a href="tekijat/mezieres.html">Mezieres, Jean-Claude</a></li>
-					<li><a href="tekijat/moebius.html">Moebius/Giraud, Jean</a> </li>
-					<li><a href="tekijat/morris.html">Morris</a></li>
-					<li><a href="tekijat/pratt.html">Pratt, Hugo</a></li>
-					<li><a href="tekijat/sampayo.html">Sampayo, Carlos</a></li>
-					<li><a href="tekijat/schuiten.html">Schuiten</a></li>
-					<li><a href="tekijat/sokal.html">Sokal, Benoit</a></li>
-					<li><a href="tekijat/stanislas.html">Stanislas</a></li>
-					<li><a href="tekijat/tabary.html">Tabary</a></li>
-					<li><a href="tekijat/tardi.html">Tardi</a></li>
-					<li><a href="tekijat/torres.html">Torres, Daniel</a></li>
-					<li><a href="tekijat/lewis_trondheim.html">Trondheim, Lewis</a></li>
-					<li><a href="tekijat/uderzo.html">Uderzo, Albert</a></li>
-					<li><a href="tekijat/vanhamme.html">Van Hamme, Jean</a></li>
-					<li><a href="tekijat/vance.html">Vance, William</a></li>
-					<li><a href="tekijat/voss.html">Voss, Alain</a></li>
-				</ul>
-			</md-content>
-		  </md-tab>
-		</md-tabs>
+<body>
+	<div flex class="tabs-wrapper" ng-controller="tabCtrl">
+	  <md-tabs class="full-size" md-border-bottom md-selected="selectedIndex">
+	    <md-tab label="Albumit" ng-click="showMenulist()">
+		    <md-content class="md-padding">
+		      <h1 class="md-display-2" ng-show="showMenu">Albumit</h1>
+		      <ul class="valikko" ng-show="showMenu">
+		        <li ng-click="getContent('albumit/albumit1.json')">Sekalaiset A-H</li>
+		        <li ng-click="getContent('albumit/albumit2.json')">Sekalaiset I-M</li>
+		        <li ng-click="getContent('albumit/albumit3.json')">Sekalaiset N-Ö</li>
+		        <li ng-click="getContent('albumit/albumit4.json')">Sekalaiset (useita tekijöitä)</li>
+		      </ul>
+		      <div class="content" ng-show="showList">
+		        <h1>{{lehdennimi}}</h1>
+		        <ul>
+		          <li ng-repeat="tekija in tarinalista">
+		            <br/><b>{{tekija.tekija}}:</b>
+		            <ul>
+		            <li ng-repeat="tarina in tekija.tarinat">
+		               {{tarina.nimike}} {{tarina.alkupnimi}} <i>({{tarina.julk}})</i>
+		            </li>
+		            </ul>
+		          </li>
+		        </ul>
+		      </div>
+		    </md-content>
+	    </md-tab>
+	    <md-tab label="Lehdet" ng-click="showMenulist()">
+		    <md-content class="md-padding">
+		      <h1 class="md-display-2" ng-show="showMenu">Lehdet</h1>
+		      <ul class="valikko" ng-show="showMenu">
+		        <li ng-click="getContent('lehdet/2000plus.json')">2000+</li>
+		        <li ng-href="" ng-click="getContent('lehdet/alpha.json')">Alpha</li>
+		        <li ng-click="getContent('lehdet/casablanca.json')">Casablanca</li>
+		        <li ng-click="getContent('lehdet/chevalnoir.json')">Cheval Noir</li>
+		        <li ng-click="getContent('lehdet/comet.json')">Comet</li>
+		        <li ng-click="getContent('lehdet/drawnandquarterly.json')">Drawn and Quarterly</li>
+		        <li ng-click="getContent('lehdet/epix.json')">Epix</li>
+		        <li ng-click="getContent('lehdet/pox.json')">Pox</li>
+		        <li ng-click="getContent('lehdet/heavymetal.json')">Heavy Metal</li>
+		        <li ng-click="getContent('lehdet/jysays.json')">Jysäys</li>
+		        <li ng-click="getContent('lehdet/kylmametalli.json')">Kylmä Metalli</li>
+		        <li ng-click="getContent('lehdet/laaki.json')">Laaki</li>
+		        <li ng-click="getContent('lehdet/poxspecial.json')">Pox Special</li>
+		        <li><a href="lehdet/poxspecial.html">Pox Special</a></li>
+		        <li ng-click="getContent('lehdet/kylmametalli.json')">Pulserande Metal</li>
+		        <li ng-click="getContent('lehdet/raw.json')">Raw</li>
+		        <li ng-click="getContent('lehdet/ruutunonstop.json')">Ruutu & Non Stop</li>
+		        <li ng-click="getContent('lehdet/tapiiri.json')">Tapiiri</li>
+		        <li ng-click="getContent('lehdet/tungmetal.json')">Tung Metall</li>
+		        <li ng-click="getContent('lehdet/zoom.json')">Zoom</li>
+		      </ul>
+		      <div class="content" ng-show="showList">
+		        <h1>{{lehdennimi}}</h1>
+		        <ul>
+		          <li ng-repeat="tekija in tarinalista">
+		            <br/><b>{{tekija.tekija}}:</b>
+		            <ul>
+		            <li ng-repeat="tarina in tekija.tarinat">
+		               {{tarina.nimike}} {{tarina.alkupnimi}} <i>({{tarina.julk}})</i>
+		            </li>
+		            </ul>
+		          </li>
+		        </ul>
+		      </div>
+		    </md-content>
+	    </md-tab>
+	    <md-tab label="Sarjat" ng-click="showMenulist()">
+		    <md-content class="md-padding">
+		      <h1 class="md-display-2" ng-show="showMenu">Sarjat</h1>
+		      <ul class="valikko" ng-show="showMenu">
+		        <li ng-click="getContent('sarjat/ahmedahne.json')">Ahmed Ahne - Iznogoud</li>
+		        <li ng-click="getContent('sarjat/alix.json')">Alix</li>
+		        <li ng-click="getContent('sarjat/asterix.json')">Asterix</li>
+		        <li ng-click="getContent('sarjat/barelli.json')">Barelli</li>
+		        <li ng-click="getContent('sarjat/bernardprince.json')">Bernard Prince</li>
+		        <li ng-click="getContent('sarjat/blakejamortimer.json')">Blake ja Mortimer</li>
+		        <li ng-click="getContent('sarjat/blueberry.json')">Blueberry</li>
+		        <li ng-click="getContent('sarjat/boismaury.json')">Bois-Maury</li>
+		        <li ng-click="getContent('sarjat/bouncer.json')">Bouncer</li>
+		        <li ng-click="getContent('sarjat/brucejhawker.json')">Bruce J. Hawker</li>
+		        <li ng-click="getContent('sarjat/brunobrazil.json')">Bruno Brazil</li>
+		        <li ng-click="getContent('sarjat/comanche.json')">Comanche</li>
+		        <li ng-click="getContent('sarjat/frank.json')">Frank - Lefranc</li>
+		        <li ng-click="getContent('sarjat/haikaralaivue.json')">Ilmojen haukat/Haikaralaivue - Tanguy et Laverdure</li>
+		        <li ng-click="getContent('sarjat/matkamiehet.json')">Hämärän matkamiehet - Les Compagnons du Crepuscule</li>
+		        <li ng-click="getContent('sarjat/jeffhawke.json')">Jeff Hawke</li>
+		        <li ng-click="getContent('sarjat/jeremiah.json')">Jeremiah</li>
+		        <li ng-click="getContent('sarjat/cutlass.json')">Jim Cutlass</li>
+		        <li ng-click="getContent('sarjat/johannes.json')">Johannes ja Pirkale - Johan et Pirlouit</li>
+		        <li ng-click="getContent('sarjat/joonatan.json')">Joonatan Pistooli - Jehan Pistolet</li>
+		        <li ng-click="getContent('sarjat/kaspar.json')">Kaspar Keskiyö</li>
+		        <li ng-click="getContent('sarjat/kenparker.json')">Ken Parker</li>
+		        <li ng-click="getContent('sarjat/largowinch.json')">Largo Winch</li>
+		        <li ng-click="getContent('sarjat/luckyluke.json')">Lucky Luke</li>
+		        <li ng-click="getContent('sarjat/natasha.json')">Natasha</li>
+		        <li ng-click="getContent('sarjat/pielinen.json')">Niilo Pielinen - Gaston</li>
+		        <li ng-click="getContent('sarjat/peterpan.json')">Peter Pan</li>
+		        <li ng-click="getContent('sarjat/piko.json')">Piko ja Fantasio - Spirou</li>
+		        <li ng-click="getContent('sarjat/resande.json')">Resande med vinden - Les Passagers du Vent</li>
+		        <li ng-click="getContent('sarjat/vargas.json')">Roco Vargas</li>
+		        <li ng-click="getContent('sarjat/sammyday.json')">Sammy Day</li>
+		        <li ng-click="getContent('sarjat/simon.json')">Simon</li>
+		        <li ng-click="getContent('sarjat/sinitakit.json')">Sinitakit - Les Tuniques Bleues</li>
+		        <li ng-click="getContent('sarjat/sillage.json')">Sillage</li>
+		        <li><a href="sarjat/spirit.html">Spirit</a></li>
+		        <li ng-click="getContent('sarjat/stephan.json')">Stephan</li>
+		        <li><a href="sarjat/superdetectivelibrary.html">Super Detective Library</a></li>
+		        <li ng-click="getContent('sarjat/texspecial.json')">Tex Willer</li>
+		        <li ng-click="getContent('sarjat/thorgal.json')">Thorgal</li>
+		        <li ng-click="getContent('sarjat/titeuf.json')">Titeuf</li>
+		        <li ng-click="getContent('sarjat/umpahpah.json')">Umpah-pah</li>
+		        <li ng-click="getContent('sarjat/valerian.json')">Valerian</li>
+		        <li ng-click="getContent('sarjat/xiii.json')">XIII</li>
+		      </ul>
+		      <div class="content" ng-show="showList">
+		        <h1>{{lehdennimi}}</h1>
+		        <ul>
+		          <li ng-repeat="tekija in tarinalista">
+		            <br/><b>{{tekija.tekija}}:</b>
+		            <ul>
+		            <li ng-repeat="tarina in tekija.tarinat" class="list-item">
+		              <div class="alkupnimi">
+		                  <span class="numero">{{tarina.numero}} </span>
+		                  <span>{{tarina.alkupnimi}}</span>
+		              </div>
+		               <span class="nimike">{{tarina.nimike}}</span>
+		               <span class="julk">{{tarina.julk}}</span>
+		            </li>
+		            </ul>
+		          </li>
+		        </ul>
+		      </div>
+		    </md-content>
+	    </md-tab>
+	    <md-tab label="Tekijät" ng-click="showMenulist()">
+		    <md-content class="md-padding">
+		      <h1 class="md-display-2">Tekijät</h1>
+		      <ul class="valikko">
+		        <li><a href="tekijat/altuna.html">Altuna, Horacio</a></li>
+		        <li><a href="tekijat/auclair.html">Auclair, Claude</a></li>
+		        <li><a href="tekijat/bagge.html">Bagge, Peter</a></li>
+		        <li><a href="tekijat/baru.html">Baru</a></li>
+		        <li><a href="tekijat/berck.html">Berck</a></li>
+		        <li><a href="tekijat/bilal.html">Bilal, Enki</a></li>
+		        <li><a href="tekijat/bourgeon.html">Bourgeon, Francois</a></li>
+		        <li><a href="tekijat/cauvin.html">Cauvin, Raoul</a></li>
+		        <li><a href="tekijat/chaland.html">Chaland, Yves</a></li>
+		        <li><a href="tekijat/charlier.html">Charlier, Jean-Michel</a> </li>
+		        <li><a href="tekijat/christin.html">Christin, Pierre</a></li>
+		        <li><a href="tekijat/clowes.html">Clowes, Daniel</a></li>
+		        <li><a href="tekijat/dupuyberberian.html">Dupuy & Berberian</a></li>
+		        <li><a href="tekijat/eisner.html">Eisner, Will</a></li>
+		        <li><a href="tekijat/franquin.html">Franquin, Andre</a></li>
+		        <li><a href="tekijat/fred.html">Fred</a></li>
+		        <li><a href="tekijat/moebius.html">Giraud, Jean/Moebius</a></li>
+		        <li><a href="tekijat/goscinny.html">Goscinny, René</a></li>
+		        <li><a href="tekijat/hermann.html">Hermann</a></li>
+		        <li><a href="tekijat/hernandez.html">Hernandez Gilbert, Jaime & Mario</a></li>
+		        <li><a href="tekijat/lauzier.html">Lauzier</a></li>
+		        <li><a href="tekijat/mezieres.html">Mezieres, Jean-Claude</a></li>
+		        <li><a href="tekijat/moebius.html">Moebius/Giraud, Jean</a> </li>
+		        <li><a href="tekijat/morris.html">Morris</a></li>
+		        <li><a href="tekijat/pratt.html">Pratt, Hugo</a></li>
+		        <li><a href="tekijat/sampayo.html">Sampayo, Carlos</a></li>
+		        <li><a href="tekijat/schuiten.html">Schuiten</a></li>
+		        <li><a href="tekijat/sokal.html">Sokal, Benoit</a></li>
+		        <li><a href="tekijat/stanislas.html">Stanislas</a></li>
+		        <li><a href="tekijat/tabary.html">Tabary</a></li>
+		        <li><a href="tekijat/tardi.html">Tardi</a></li>
+		        <li><a href="tekijat/torres.html">Torres, Daniel</a></li>
+		        <li><a href="tekijat/lewis_trondheim.html">Trondheim, Lewis</a></li>
+		        <li><a href="tekijat/uderzo.html">Uderzo, Albert</a></li>
+		        <li><a href="tekijat/vanhamme.html">Van Hamme, Jean</a></li>
+		        <li><a href="tekijat/vance.html">Vance, William</a></li>
+		        <li><a href="tekijat/voss.html">Voss, Alain</a></li>
+		      </ul>
+		    </md-content>
+	    </md-tab>
+	  </md-tabs>
 	</div>
-		
-	
+
+
+
 </body>
 </html>
